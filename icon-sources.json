@@ -818,9 +818,12 @@
       ]
     },
     "Glyphs Poly/Pack Icons (Color)/tab_series.svg": {
-      "icon": "glyphs-poly:book-spine",
-      "sha256": "d02dc03230c2342e432e1374d6b48616bfc6267824faabaacd4464ca13128f8d",
-      "source_body_sha256": "ad253b8c18ef5c136095f9f82b89de2166885273281bd613a04abc88c027dfae"
+      "icon": "glyphs-poly:books",
+      "sha256": "7499c6c3493a747a6e5e1387e6cad2319ff8acb6176f325408e7f78deba1cbf1",
+      "source_body_sha256": "6efacfe44fe087f5147f6e8b2132607943cd21328c1949f2e7f18d0f40a2c7d9",
+      "transforms": [
+        "rotate:-90"
+      ]
     },
     "Glyphs Poly/Supplementary Icons (Color)/tab_stats.svg": {
       "icon": "glyphs-poly:chart-bar",
