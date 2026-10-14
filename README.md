@@ -1,4 +1,4 @@
-# Glyphs Poly Icon Pack for ZenOS
+# Glyphs Poly Color Icon Pack for ZenOS
 
 Color replacement icons for [ZenOS](https://github.com/xZenLabs/zen-os),
 KOReader, and ZenPM, using [Glyphs Poly](https://icon-sets.iconify.design/glyphs-poly/)
@@ -33,7 +33,7 @@ downloaded package logos, and package previews retain their own artwork.
 ZenPM replacements require a frontend that supports the selected ZenOS icon pack.
 
 The pack declares `"color": true`. Color e-ink preserves the palette; grayscale
-devices display the same artwork in grayscale. No recolored Mono variant is included.
+devices display the same artwork in grayscale.
 
 ## Install with ZenPM
 

@@ -9,27 +9,27 @@
     "url": "https://github.com/gorango/glyphs/blob/main/license"
   },
   "icons": {
-    "Glyphs Poly/KOReader Icons (Mono)/align.auto.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/align.auto.svg": {
       "icon": "glyphs-poly:align-side",
       "sha256": "b348091a79d13070c1157c4a9c9180cd594046ac8f564245a25ff13dca3c3efc",
       "source_body_sha256": "12f76e4c1d7c1390a911e9097e17cc43241456de6f060d77153164c59dbef3b5"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/align.center.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/align.center.svg": {
       "icon": "glyphs-poly:align-center",
       "sha256": "b850330fa9352bbdbdd7915821eed813da02b0fd377e474889b09cb2497ad9fd",
       "source_body_sha256": "543f029c90d53f42195fddde7179b3205930ecfd005bf6233e6acbd70ae673c8"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/align.justify.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/align.justify.svg": {
       "icon": "glyphs-poly:align-justify",
       "sha256": "8b55945e46afa6e588688433f4332af106804d569461ec113a46e8d39bd5ff31",
       "source_body_sha256": "8f0409598bb13f6140c8807c86cc05220e507a49811a742fd637dd690d66cfcf"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/align.left.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/align.left.svg": {
       "icon": "glyphs-poly:align-side",
       "sha256": "b348091a79d13070c1157c4a9c9180cd594046ac8f564245a25ff13dca3c3efc",
       "source_body_sha256": "12f76e4c1d7c1390a911e9097e17cc43241456de6f060d77153164c59dbef3b5"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/align.right.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/align.right.svg": {
       "icon": "glyphs-poly:align-side",
       "sha256": "bfde4cd2158f67be56423385301b36a852d606e4cc5b6e954f5ba32ba78d5816",
       "source_body_sha256": "12f76e4c1d7c1390a911e9097e17cc43241456de6f060d77153164c59dbef3b5",
@@ -37,102 +37,102 @@
         "mirror"
       ]
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/annotations_viewer.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/annotations_viewer.svg": {
       "icon": "glyphs-poly:note-pad",
       "sha256": "ce87c9761fa6a7d87ea51c110bad381dda0e00c711c37c77bf545f46cf057007",
       "source_body_sha256": "18c1b084622af222607b2f6b4108273853d59f9bbbfd8065b7f97991d8adcb7c"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/app_launcher.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/app_launcher.svg": {
       "icon": "glyphs-poly:grid",
       "sha256": "5bae08b371579b1e88bc21a327e66d980b1d5418d2a59db591c0d35ac978218b",
       "source_body_sha256": "e28dba85816af0448c594371918124fa1b3e69f8bb6a0621c0aa04132f6199c3"
     },
-    "Glyphs Poly/Pack Icons (Mono)/app_menu.svg": {
+    "Glyphs Poly/Pack Icons (Color)/app_menu.svg": {
       "icon": "glyphs-poly:bars",
       "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
       "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.contrast.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.contrast.svg": {
       "icon": "glyphs-poly:exposure",
       "sha256": "1ca408548a0b68b0165cfa39cb92309c79bdda24f7e120c993e93bf5cc207f85",
       "source_body_sha256": "92c007818a75f27539326d102846f765f945a1c44816e3a2ede4efa3cca47b05"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.crop.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.crop.svg": {
       "icon": "glyphs-poly:crop",
       "sha256": "58bd03d73d7620275cb9a54a50968a6cc03a988ec7f54ac16177dd12a608138d",
       "source_body_sha256": "01f157e7e0ba67ecceecc9cfc8c4c17a342eaaa9eb3ff146d59239e3362908ed"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.filebrowser.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.filebrowser.svg": {
       "icon": "glyphs-poly:folder",
       "sha256": "1c7d9c32a737ef236b9257edb7aad1de60cd5b7322225c44ef0ea90a63c0f24f",
       "source_body_sha256": "11fba9ed5f2a6a093c9d5a566103c9482b157fb89f487ffcb4d8640f5a2b3e86"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.menu.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.menu.svg": {
       "icon": "glyphs-poly:bars",
       "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
       "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.navigation.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.navigation.svg": {
       "icon": "glyphs-poly:compass",
       "sha256": "f87ed851c6162a5b1fa45863624c3db399bb393d7a8f45a6db628eb0bc927d0d",
       "source_body_sha256": "3204305e3a5d540c0d202a9b4ca362ec081f850b6ba5770889f62b1e10ed4ade"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.pagefit.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.pagefit.svg": {
       "icon": "glyphs-poly:view-expand",
       "sha256": "f3f3ceb5f2e20e79d6b5260793ee84c6ae790be5cdfec6ed6f93f875997c8000",
       "source_body_sha256": "62bbb569bc29e1a864cb449ff5bc9bb01df497716d33ed53f6bb14950f6252e8"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.pageview.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.pageview.svg": {
       "icon": "glyphs-poly:file",
       "sha256": "386b696920ec38ca678cff52b188e292d003366e63a1197f2beff2fa2ae70185",
       "source_body_sha256": "fbe7605dc88282ddb54da456315d971c2295d0341508731ef7302a0b8fdbf8ff"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.rotation.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.rotation.svg": {
       "icon": "glyphs-poly:arrows-round",
       "sha256": "a79d978636cffd3d96a6358e01fc3ba9d0ec436c3114974ddca265188c784b55",
       "source_body_sha256": "3816ba052491b75e903f618f0f579f02b05ff4af225d5d924bde978dfe49b876"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.search.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.search.svg": {
       "icon": "glyphs-poly:search",
       "sha256": "98d43ede346bb31120d4e4e71a16e1e7cc108c5b178e05b26bcc0f637d8c46fa",
       "source_body_sha256": "e703f75791d0ca19c31c1db4d4b5d8d0508a3ac7777984c7e441f0930632facc"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.settings.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.settings.svg": {
       "icon": "glyphs-poly:cog",
       "sha256": "299a8517ac4e26e4f9c86ca5af8069900cab0a0d5b02b462041b8a6945ed899f",
       "source_body_sha256": "632a5fa0fdc449ae5e5588c4feaf532ef549a03612474acb47abe0e5c45be1dc"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.textsize.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.textsize.svg": {
       "icon": "glyphs-poly:font",
       "sha256": "19dc386c769dd5deeb8ee503abd902e131ec0305b6c5e9ce86578935220253c7",
       "source_body_sha256": "a516979d57efdb7b2ec5bb1253fe675ae54302480be732dcae39fff7b51b7177"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.tools.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.tools.svg": {
       "icon": "glyphs-poly:tools",
       "sha256": "ff9359db231eccf5c57b2bb885e7f351f9dc60ecf6f0547359f7791816feab33",
       "source_body_sha256": "d1161e174696bcd97b08b13925dace7d58d3cae28f89e6b0a39696cee2406455"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/appbar.typeset.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/appbar.typeset.svg": {
       "icon": "glyphs-poly:text",
       "sha256": "5416e9cfda8cb59521f73ac9e7aea4946858fc9cd3122f9a7a940853e9a6ae65",
       "source_body_sha256": "61d20c4284d53f18fc1b06e91348d1cb9acd3bebb9d1881b34bbb2bba94693f3"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/archive.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/archive.svg": {
       "icon": "glyphs-poly:archive",
       "sha256": "11c6e6aedfdc28674e3773e8415e9258675fb26f5991eecefd9dea10d2eefbf7",
       "source_body_sha256": "1c6e8b0b374e3fbcbaa54a6f08d009d27da05b9256614829f2cc0830c9c3867c"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/avatar.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/avatar.svg": {
       "icon": "glyphs-poly:user",
       "sha256": "bbd826700c490176f89ee97f1ed76ef24e8da5fc1b2fe606fcb62744f4095e3c",
       "source_body_sha256": "4548f32c84441eee99de130b61080e902299619dacd849969a2351dd3c2d9ce0"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/back.top.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/back.top.svg": {
       "icon": "glyphs-poly:arrow-line-start",
       "sha256": "5a8f6ee1c25a276c218c6f6e677bba52b363f919d418f4b54f3ee7b4a51d39fe",
       "source_body_sha256": "a2fd148f09d4017c436dddbd205c414dedb14a0aebe9c85a6abca2782da77941"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/back.top.rtl.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/back.top.rtl.svg": {
       "icon": "glyphs-poly:arrow-line-start",
       "sha256": "c179137ceb3ecfdaeaf7469dfdd9e52a0099b8cc9788dd0a6922652e6b51571a",
       "source_body_sha256": "a2fd148f09d4017c436dddbd205c414dedb14a0aebe9c85a6abca2782da77941",
@@ -140,82 +140,82 @@
         "mirror"
       ]
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/backup.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/backup.svg": {
       "icon": "glyphs-poly:save",
       "sha256": "537d0001212631ecd76ce5af6909c0e83b6c377cb24a4a9baf06e694cda8340d",
       "source_body_sha256": "5cf5cffda1c3a5a6bcf930d0d23ac4d05665b82fdbe1545f1422c4205ff9ae79"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/battery_charging.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/battery_charging.svg": {
       "icon": "glyphs-poly:battery-charge",
       "sha256": "349b7309f1cf80a59a7c82a446d84aa7e4cec5e148b99cbeac6b918664a21aee",
       "source_body_sha256": "e5df96c91a8c67f95999cef60e3294e4be5ad9a0759f1512f920d922cd49f664"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/battery_full.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/battery_full.svg": {
       "icon": "glyphs-poly:battery-100",
       "sha256": "17b73cae5a2dc08cef14e818521f34a44f6a7f61a7d8baa81615fea705e6faeb",
       "source_body_sha256": "12757f1d3908b91bd6fd93cbde1c2dee069916bd2cf181214501a6ae97eafedb"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/battery_half.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/battery_half.svg": {
       "icon": "glyphs-poly:battery-50",
       "sha256": "5d80120307b0284d861d71f2c416db3b9afaa24682aaeee0666f73e91636cce6",
       "source_body_sha256": "eb855c08379b8d505c9f29d881bbe140a4386966570e2b89cca9410aee3ef92b"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/battery_low.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/battery_low.svg": {
       "icon": "glyphs-poly:battery-25",
       "sha256": "2b4517be7440ef2608c5834be5a60f8c5175f10c89926e1ee4b085fe3cddea9a",
       "source_body_sha256": "48593f6920421b367b486c4da3079624e7efb322784f88e8327d6d61a8bca5db"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/bell.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/bell.svg": {
       "icon": "glyphs-poly:bell",
       "sha256": "359735e9943fb1cd7a1c354b6a6e6d596367e4f3e2f5683390b8fd9f6b9a038f",
       "source_body_sha256": "5e7b9fdbbf58a357989a2d9047200e3946d5a676cd911029f6cb6b82826ec781"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/bell_off.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/bell_off.svg": {
       "icon": "glyphs-poly:bell-slash",
       "sha256": "3cef25a96542d1341e40a309b8cd8f3f6a01a56557e0d8d07122e127b9227e6f",
       "source_body_sha256": "0e1fc86b1403e9e8618b2dc056f6595a265f45ab0ffc5d78f48c3c46429e3fb2"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/blocks.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/blocks.svg": {
       "icon": "glyphs-poly:box",
       "sha256": "4e089a810d1e78c310fb62f7ce74af7410415a830d8a9a0c8ff791645192af9b",
       "source_body_sha256": "dcca48405e7888614003c4e1e153f129041635ce793ef72fa6440a68ad45f2e1"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/book.opened.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/book.opened.svg": {
       "icon": "glyphs-poly:book-open",
       "sha256": "e0ae4860d99ec2e901e01f2778cd4f164aa94f30b8894442f5e8d820523627f1",
       "source_body_sha256": "00899287ce19a517e6e5819312b4769eab92b38e5ff58c0cbdfb90985e8a2fd3"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/book_closed.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/book_closed.svg": {
       "icon": "glyphs-poly:book",
       "sha256": "9a227b863f1aaff8888132dbc6eb4730bd35ce6c59255c4a0f4a57946fdda4be",
       "source_body_sha256": "e2aab1de0d571cd138753362d37b75ba0eec771776e9f1b901db1091d318cd44"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/bookmark.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/bookmark.svg": {
       "icon": "glyphs-poly:bookmark",
       "sha256": "ebf9c3fdd778fdcdd1237a540715c8f9cdb0718422e30af351e21c6bd794bb97",
       "source_body_sha256": "15f6d0ec25119e7b308d0b62a6f835c7f4f30c30751553eb114901a7eeadcfc7"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/calculator.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/calculator.svg": {
       "icon": "glyphs-poly:calculator",
       "sha256": "2f294be869ec345c25bedaa0a92ea00a035210b5e6295fb937c2c984fcc086dd",
       "source_body_sha256": "73c5b81571c2f2477d2225f5a2e945d2a84b8a1fce5e7964f11ad0d57ddd07e8"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/calendar_view.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/calendar_view.svg": {
       "icon": "glyphs-poly:calendar",
       "sha256": "42d11ee8503a214aa5c568b3e82cd37e618befe030158c8d7817aac804d77729",
       "source_body_sha256": "963bb810cd5739283a759c7c00958e448547a455ecfad952418f847622984db5"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/cancel.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/cancel.svg": {
       "icon": "glyphs-poly:times",
       "sha256": "b0815c23acc19d83349d709207a6fc9e4744ef45cbf72eca412229e7f0ce2915",
       "source_body_sha256": "f778be42079ca8f9af140431cf778b88edb16085b507aeec9ab929809b8f6197"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/check.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/check.svg": {
       "icon": "glyphs-poly:check",
       "sha256": "8412762428784964d8fd889c1c3e1cb8b4a254473fe3bb179d573696aaafd445",
       "source_body_sha256": "f64f081d8e35d8a8c9aeafcefc298f22389628773ec83050a9da6c1c257d4685"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/chevron.first.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/chevron.first.svg": {
       "icon": "glyphs-poly:chevron-double",
       "sha256": "ad9d51b149a003c3bb33ae3860795f6e2524178eb9a56e9b4dcc4e632022d69e",
       "source_body_sha256": "f1f1af69bd1c0691a46afb3594bb24a3e82dcc6a774300bccf5617268dc9bb47",
@@ -223,7 +223,7 @@
         "rotate:-90"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/chevron.last.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/chevron.last.svg": {
       "icon": "glyphs-poly:chevron-double",
       "sha256": "93018c07f5f43c57d7fd412ebbdfb4227d9ead31908d35453b843bf0e747db62",
       "source_body_sha256": "f1f1af69bd1c0691a46afb3594bb24a3e82dcc6a774300bccf5617268dc9bb47",
@@ -231,7 +231,7 @@
         "rotate:90"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/chevron.left.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/chevron.left.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "594bd8af792f4cadacae4696669c27ecb0456f1ee71456e493b3f3488f2b4e09",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
@@ -239,7 +239,7 @@
         "rotate:-90"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/chevron.right.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/chevron.right.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "7c96db9dfed8d67a1171e42c0be8db3b32f07bb308501f83c81b758cb5600cff",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
@@ -247,27 +247,27 @@
         "rotate:90"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/chevron.up.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/chevron.up.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "07bb04ae9ff03d1ec2544b3b31902e8e6970b83663846d24a010a81575faebfb",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/clapperboard.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/clapperboard.svg": {
       "icon": "glyphs-poly:film",
       "sha256": "6e056b21261cec403c0fee4efd975145b6bfafb273b7c46e0c6f5d5e933ba404",
       "source_body_sha256": "339996b2cb6d12ea1b6cf6d8d0f14cdbdfdc5385ed72f16cd684234ec49b6825"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/clipboard.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/clipboard.svg": {
       "icon": "glyphs-poly:clipboard",
       "sha256": "8c73ae8a0667ebf8a89ad745992e6a8fea5fbe693b9af9922bee4e822cf2a983",
       "source_body_sha256": "5f596c9849f1b746c715fd93c3d1c66f9818a66edcfbc17827e7257131dce746"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/close.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/close.svg": {
       "icon": "glyphs-poly:times",
       "sha256": "b0815c23acc19d83349d709207a6fc9e4744ef45cbf72eca412229e7f0ce2915",
       "source_body_sha256": "f778be42079ca8f9af140431cf778b88edb16085b507aeec9ab929809b8f6197"
     },
-    "Glyphs Poly/Pack Icons (Mono)/coll_back.svg": {
+    "Glyphs Poly/Pack Icons (Color)/coll_back.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "594bd8af792f4cadacae4696669c27ecb0456f1ee71456e493b3f3488f2b4e09",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
@@ -275,32 +275,32 @@
         "rotate:-90"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/column.one.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/column.one.svg": {
       "icon": "glyphs-poly:columns-1",
       "sha256": "b6c43b1dc39739bbdade579085c1dd0454328e8b6cb71383a378f27f4f94f4d9",
       "source_body_sha256": "6de0f895996fb67828bdd76e31e9dbb51b5242dbad4d50849b2e53b15ceebeb4"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/column.three.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/column.three.svg": {
       "icon": "glyphs-poly:columns-3",
       "sha256": "ee0050283a1d8ca6262717556b8ed95633cd991675d83623072e7617e5a4c58c",
       "source_body_sha256": "338054ad984b7353999d0451bc1d10848cda5786480a687ac1233cb4c7f03432"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/column.two.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/column.two.svg": {
       "icon": "glyphs-poly:columns-2",
       "sha256": "22c15d9815a19fc371907981f0714504a562dd03b5b8a3aee11340eac394bfc7",
       "source_body_sha256": "583dfd23552e10586e90880c7cc30ce1324a9617f124f7c50baf37e54cd93228"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/compass.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/compass.svg": {
       "icon": "glyphs-poly:compass",
       "sha256": "f87ed851c6162a5b1fa45863624c3db399bb393d7a8f45a6db628eb0bc927d0d",
       "source_body_sha256": "3204305e3a5d540c0d202a9b4ca362ec081f850b6ba5770889f62b1e10ed4ade"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/control.collapse.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/control.collapse.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "07bb04ae9ff03d1ec2544b3b31902e8e6970b83663846d24a010a81575faebfb",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/control.expand.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/control.expand.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "446efae1062ee403d3dde0ff7478fd46c920528d4c27eceaedece6ca0851a04b",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
@@ -308,7 +308,7 @@
         "rotate:180"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/control.expand.alpha.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/control.expand.alpha.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "3e2f132fe5abe79f20b067247379c5d708ce894cc44e72eca7738864e89b6c6c",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
@@ -317,22 +317,22 @@
         "opacity:0.5"
       ]
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/coverflow.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/coverflow.svg": {
       "icon": "glyphs-poly:images",
       "sha256": "75d458336fc2a9fec7602db04af10889fad0f26c786ebb68988818cc3f9bbb19",
       "source_body_sha256": "b0fcfb9179a3ed061b56500fa7d1967e062e003fbd915e30264f4ccc12605f05"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/cre.render.ready.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/cre.render.ready.svg": {
       "icon": "glyphs-poly:check-circle",
       "sha256": "d95553582bf19ee8ac615e2b34c7b1211ad5c9ad7ff912bf181434c69bace8e6",
       "source_body_sha256": "d26840ae9d954efca60200631dfb8ab603e4978c766cac8804af1bd1a46122dd"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/cre.render.reload.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/cre.render.reload.svg": {
       "icon": "glyphs-poly:replay",
       "sha256": "0d5c0cab6b6844fe7bb763a0db38b5b733fadd149c6372143088a4ce1f749bfb",
       "source_body_sha256": "08efa9324cec1c4576579172fb0118c57a99c31bdc6d0d06d95a522dd4adee17"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/cre.render.reload.alpha.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/cre.render.reload.alpha.svg": {
       "icon": "glyphs-poly:replay",
       "sha256": "f09620dbfbc68b7211654f875c0862fe8827c4142ded28411d47b8a79056cac7",
       "source_body_sha256": "08efa9324cec1c4576579172fb0118c57a99c31bdc6d0d06d95a522dd4adee17",
@@ -340,17 +340,17 @@
         "opacity:0.5"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/cre.render.working.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/cre.render.working.svg": {
       "icon": "glyphs-poly:hourglass",
       "sha256": "25203876eaa1f87f76e44bae5ab9a3f8aa6c74257deec70507be3888fc72330a",
       "source_body_sha256": "6e0ae166eaf358f6017cf49fd863ca3723eda7daa5da689279277817483d7306"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/disable.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/disable.svg": {
       "icon": "glyphs-poly:minus",
       "sha256": "539df1ae03ecf6580a0a0736a19c62f01d46e0a5831580554f41bd7a580d8a67",
       "source_body_sha256": "0b826aa7b3cfefbdff5be2b2cf0010441eab5d136455dd12abf8885e4b9ed898"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/download.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/download.svg": {
       "icon": "glyphs-poly:arrow-line-start",
       "sha256": "836bdaaf10e2478a0ca403f367cf58441b3d4b4f72254e281fa14be8d8bba3e2",
       "source_body_sha256": "a2fd148f09d4017c436dddbd205c414dedb14a0aebe9c85a6abca2782da77941",
@@ -358,7 +358,7 @@
         "rotate:180"
       ]
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/downloads.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/downloads.svg": {
       "icon": "glyphs-poly:arrow-line-start",
       "sha256": "836bdaaf10e2478a0ca403f367cf58441b3d4b4f72254e281fa14be8d8bba3e2",
       "source_body_sha256": "a2fd148f09d4017c436dddbd205c414dedb14a0aebe9c85a6abca2782da77941",
@@ -366,117 +366,117 @@
         "rotate:180"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/edit.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/edit.svg": {
       "icon": "glyphs-poly:edit",
       "sha256": "93f0d640e1873ff95ba9a1007934025bb5531e7308e1e17f03f92420e5a720bb",
       "source_body_sha256": "930473a3d5228eb169cbbadaf23ded26f4e652eebdfe63b777d1ccfbc7854c43"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/education.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/education.svg": {
       "icon": "glyphs-poly:graduation-cap",
       "sha256": "233dbac79b5a0ea1b70d9aedcf3e06f20867a4f28ed1a64a5461e09cbe3120a1",
       "source_body_sha256": "fedced4d01ef2a704dbf9d82d434843e36c96f19e0ba3f3cb64cd58890785ba1"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/enable.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/enable.svg": {
       "icon": "glyphs-poly:check",
       "sha256": "8412762428784964d8fd889c1c3e1cb8b4a254473fe3bb179d573696aaafd445",
       "source_body_sha256": "f64f081d8e35d8a8c9aeafcefc298f22389628773ec83050a9da6c1c257d4685"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/exit.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/exit.svg": {
       "icon": "glyphs-poly:power",
       "sha256": "9a3b0eecd5534efaf213f9c495fd55c47a0e282603d1be3c48a517c25f5b5092",
       "source_body_sha256": "3437b51221d0c23810d71b92448884b680201eb64ddbc75f4e5f2c2be5d0cb61"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/external_link.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/external_link.svg": {
       "icon": "glyphs-poly:arrow-external",
       "sha256": "1fb33b56659e700a21278d169f0c5568cbdcc177b6a9e6415f60101928be2651",
       "source_body_sha256": "88f921f3a7fe1f8e9ec6aef2df1c3a648b0830bc8b283d6ab8278eb123ce13d6"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/filebrowserplus.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/filebrowserplus.svg": {
       "icon": "glyphs-poly:folder-open",
       "sha256": "105b324fc47fe1c46963166aca3acf28e8554aa7438015152cb9feb14c7c603e",
       "source_body_sha256": "8243c2b7f1d6f8dd36aad7cc3ac27177944476981114a13fb40c064f5628c5ab"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/filter.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/filter.svg": {
       "icon": "glyphs-poly:filter",
       "sha256": "d5025688103140d2f0a2ebbc9649653eb947d5f9f23d63c8c643fc947bd1585f",
       "source_body_sha256": "40ed37a8e31515bda61516c59b1afac2b080d19f427a47486752a1295ff79f7f"
     },
-    "Glyphs Poly/Pack Icons (Mono)/folder.svg": {
+    "Glyphs Poly/Pack Icons (Color)/folder.svg": {
       "icon": "glyphs-poly:folder",
       "sha256": "1c7d9c32a737ef236b9257edb7aad1de60cd5b7322225c44ef0ea90a63c0f24f",
       "source_body_sha256": "11fba9ed5f2a6a093c9d5a566103c9482b157fb89f487ffcb4d8640f5a2b3e86"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/folder_open.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/folder_open.svg": {
       "icon": "glyphs-poly:folder-open",
       "sha256": "105b324fc47fe1c46963166aca3acf28e8554aa7438015152cb9feb14c7c603e",
       "source_body_sha256": "8243c2b7f1d6f8dd36aad7cc3ac27177944476981114a13fb40c064f5628c5ab"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/font.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/font.svg": {
       "icon": "glyphs-poly:font",
       "sha256": "19dc386c769dd5deeb8ee503abd902e131ec0305b6c5e9ce86578935220253c7",
       "source_body_sha256": "a516979d57efdb7b2ec5bb1253fe675ae54302480be732dcae39fff7b51b7177"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/gallery.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/gallery.svg": {
       "icon": "glyphs-poly:image",
       "sha256": "c976e6c2dad772d5f9eb049be44b5d5a916aeeceab73d94be349e0701388c6ae",
       "source_body_sha256": "96fa529f4cf076989291cb08f9a21cd0500621eb3c95aa4bcca9005a2923a776"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/gamepad.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/gamepad.svg": {
       "icon": "glyphs-poly:gamepad",
       "sha256": "ddc330e39aa04f869552ca16ff30ef015e64781970542cc59579af0aa40a5445",
       "source_body_sha256": "30ad826767d15f422444c374eae62fb219e6e5cafaec41c21dc734671043dcb5"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/globe.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/globe.svg": {
       "icon": "glyphs-poly:globe",
       "sha256": "be3cfce321c0d06ef71faab5704a1f9a06ccafc68ffc23eb91d1855fed16c3bf",
       "source_body_sha256": "2e029e8cdb06821e56ad31e1ef06d7179d79d34a4ba8b9b8146dc8324ffdc9a5"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/grid_slide.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/grid_slide.svg": {
       "icon": "glyphs-poly:grid-list",
       "sha256": "39c74ed375bd15f6bb2f13fa8e0c64d838ba1d9f11511035aec746b82b8514a7",
       "source_body_sha256": "8d41b5e000f8548f4050dfff3ac5297ebbe6bc36ef9a109acd8ef292c4fd7d79"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/home.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/home.svg": {
       "icon": "glyphs-poly:house",
       "sha256": "bdb7ce08e523e01489890ac1e1cbbee760e23e454c578c1fb6925d9e38a82890",
       "source_body_sha256": "0fb835d319066b293a3d513942659345f8f63f49f9134e2be0820d428bfed02b"
     },
-    "Glyphs Poly/Pack Icons (Mono)/homescreen.svg": {
+    "Glyphs Poly/Pack Icons (Color)/homescreen.svg": {
       "icon": "glyphs-poly:house",
       "sha256": "bdb7ce08e523e01489890ac1e1cbbee760e23e454c578c1fb6925d9e38a82890",
       "source_body_sha256": "0fb835d319066b293a3d513942659345f8f63f49f9134e2be0820d428bfed02b"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/info.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/info.svg": {
       "icon": "glyphs-poly:info-circle",
       "sha256": "fac1f3b0002f5d2ca7796cd1e6a338265a998c5349cdef06361bcc5d47825d53",
       "source_body_sha256": "7939d25ec0d288d815556b65ee2663e5fb5f47e8e124d92c9a9129cc1d86c139"
     },
-    "Glyphs Poly/Pack Icons (Mono)/library.svg": {
+    "Glyphs Poly/Pack Icons (Color)/library.svg": {
       "icon": "glyphs-poly:books",
       "sha256": "0ecbbd7348a711609b58c06f1913acab9ab3a07ba45ef17071ab2f5c9c259094",
       "source_body_sha256": "6efacfe44fe087f5147f6e8b2132607943cd21328c1949f2e7f18d0f40a2c7d9"
     },
-    "Glyphs Poly/Pack Icons (Mono)/lightbulb.svg": {
+    "Glyphs Poly/Pack Icons (Color)/lightbulb.svg": {
       "icon": "glyphs-poly:lightbulb-1",
       "sha256": "bd21730a61d7e289adaeed7e51e283dd173703f05cebbf9d4b14fa846080b586",
       "source_body_sha256": "2c4bcd2ac70c2c042a8c26740152c14a41eb9a5c002e53c0c6f5a4cd3f98b7e2"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/lightning.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/lightning.svg": {
       "icon": "glyphs-poly:bolt",
       "sha256": "2c2d47d4bfcaeaad3bffe1c36e54b71df788e31bff9201ede1c54151b171df4b",
       "source_body_sha256": "c24bf01277638e81be8221a3ebae5e43db29a76626169074c8f4c5fc8175afcd"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/lookup_highlight.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/lookup_highlight.svg": {
       "icon": "glyphs-poly:highlighter",
       "sha256": "281b8203ac6338ac01e7125e8506a9e30fd93c24feaa8223abaf463b5f803528",
       "source_body_sha256": "d2c6dde5e29e8d201f7da391b89fa066a101df2db40db202a62d7a090236a068"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/lookup_vocab_remove.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/lookup_vocab_remove.svg": {
       "icon": "glyphs-poly:file-remove",
       "sha256": "c911e2c86505e56ad061ed580394bfc48b540f278c559657ebe61fe6766e51c7",
       "source_body_sha256": "db567685a067427e9ad9d15ca6773a4a1227087c5adeef0e72db417d0604b5a5"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/more_vertical.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/more_vertical.svg": {
       "icon": "glyphs-poly:ellipsis",
       "sha256": "12d33e58f74d636d400749b9781986b7a291122eebcbff6e78434928d032822e",
       "source_body_sha256": "c9011c0be373007dac5afa7fda65edbc47fbd34d63afa640f463481cd3f4f2b1",
@@ -484,7 +484,7 @@
         "rotate:90"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/move.down.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/move.down.svg": {
       "icon": "glyphs-poly:arrow",
       "sha256": "c19465a83232159c40d94570671e6109d24b921ff6703e4090599fcf0c18b416",
       "source_body_sha256": "744d8b40ce77d3343222a642c2ce75e83e372de254e25583a9a713857a91dbca",
@@ -492,212 +492,212 @@
         "rotate:180"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/move.up.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/move.up.svg": {
       "icon": "glyphs-poly:arrow",
       "sha256": "8d680766a092a0f682a80e0a9dc21a4662368d99c8f571ea246a3d43ee2bc2a5",
       "source_body_sha256": "744d8b40ce77d3343222a642c2ce75e83e372de254e25583a9a713857a91dbca"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/network.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/network.svg": {
       "icon": "glyphs-poly:signal-tower",
       "sha256": "2824ff5e71efa974da149d4cfcc9c77d459c975e43244c9a7f5f11f5feb86700",
       "source_body_sha256": "bfddbb5115d1e486dfd9ca4943de67a03e58cb8ac2c3e7921a2a9c27e5de79e3"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/notice-info.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/notice-info.svg": {
       "icon": "glyphs-poly:info-circle",
       "sha256": "fac1f3b0002f5d2ca7796cd1e6a338265a998c5349cdef06361bcc5d47825d53",
       "source_body_sha256": "7939d25ec0d288d815556b65ee2663e5fb5f47e8e124d92c9a9129cc1d86c139"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/notice-question.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/notice-question.svg": {
       "icon": "glyphs-poly:question-circle",
       "sha256": "bede8b7c3e2277c0f3b79d12ecbe227474c832bfdac41781473477bcdcb6669a",
       "source_body_sha256": "365f14290f43c0852b29eff3269b11b85d117590d4d8b08882b3c4daf71f9fcb"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/notice-warning.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/notice-warning.svg": {
       "icon": "glyphs-poly:exclamation-triangle",
       "sha256": "ae83d8e2669ef59480413fe937b3da55c82642a46bd90f93acc2d6a824f82f03",
       "source_body_sha256": "d2a50a5e17407fdab11135cf835d6162c19c21397f0546d9bc0f0edc30114ba8"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/open_box.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/open_box.svg": {
       "icon": "glyphs-poly:box-open",
       "sha256": "5d551d28703f1869c261c86d8bc637a491a7a7ca8eb109217a9d9cbb68976bfa",
       "source_body_sha256": "653eae390a4ec185c9a0ed829f581c84056ca4cdcb1273cdfca5b1cf0aa02bb8"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/paint_palette.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/paint_palette.svg": {
       "icon": "glyphs-poly:palette",
       "sha256": "c788203b8cbb474a5d135bb110b5eeb0b647d6adffee0e21b1cbb9122a02267e",
       "source_body_sha256": "b3028eba28ca388832518f76941d652fc104bc257f916c01f5b5bdf2dbc38cc7"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/patch.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/patch.svg": {
       "icon": "glyphs-poly:bandage",
       "sha256": "75cea3b25a979432c59a084ca797f7d4b2c810aefaca96fc9038ccdda3e3b3dc",
       "source_body_sha256": "9a34ddc2cf64b05ab79c697a8bd95f1a0e2c84ec084f63ebca8600285fc31789"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/plus.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/plus.svg": {
       "icon": "glyphs-poly:plus",
       "sha256": "a976f7c4435edb29bd10c51c0f0e1a35ddc3ba06cfa213f51505c29b3f83b03f",
       "source_body_sha256": "cb278eb0f72a2c4bc90f81e1d93f22fe52878c17f03acc2129e47cdbe11a957a"
     },
-    "Glyphs Poly/Pack Icons (Mono)/qa_group.svg": {
+    "Glyphs Poly/Pack Icons (Color)/qa_group.svg": {
       "icon": "glyphs-poly:layer-group",
       "sha256": "97cda32817c99c8c92ddb636f4d3705b68c1a02de12beec3d56b5871898dce21",
       "source_body_sha256": "56f40db4a06fc219f33875913bae0fd90486eaabe4144d46eaf990bae0ea9d27"
     },
-    "Glyphs Poly/Pack Icons (Mono)/qa_plugin.svg": {
+    "Glyphs Poly/Pack Icons (Color)/qa_plugin.svg": {
       "icon": "glyphs-poly:puzzle-piece",
       "sha256": "f15257189dc927bf7652456dacf7481d96519818ee0080e37a51b857ca4267d0",
       "source_body_sha256": "531d53baae0ebf4e6424cbe8c8634a648f1a7a2c5615f093913e73866e79ea0c"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/qrcode.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/qrcode.svg": {
       "icon": "glyphs-poly:qr",
       "sha256": "9af134cb2332c5fde89390215988aa2708add9f6c3476e819e0aa6bd1ebee6e9",
       "source_body_sha256": "66fee4bddcb8ca4a807ed755f73ed2094611ec9b5a33620eb77d53cbe84e2957"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_aa.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_aa.svg": {
       "icon": "glyphs-poly:font",
       "sha256": "19dc386c769dd5deeb8ee503abd902e131ec0305b6c5e9ce86578935220253c7",
       "source_body_sha256": "a516979d57efdb7b2ec5bb1253fe675ae54302480be732dcae39fff7b51b7177"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_battery.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_battery.svg": {
       "icon": "glyphs-poly:battery-100",
       "sha256": "17b73cae5a2dc08cef14e818521f34a44f6a7f61a7d8baa81615fea705e6faeb",
       "source_body_sha256": "12757f1d3908b91bd6fd93cbde1c2dee069916bd2cf181214501a6ae97eafedb"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_cloud.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_cloud.svg": {
       "icon": "glyphs-poly:cloud",
       "sha256": "55de8351e64f03f2eb01122ea8659731d0e7d2df82f7726203b212631bf71c44",
       "source_body_sha256": "7033f230e0cc6bdc03c8ca269b2c8cf28572016427be00a438514eb4cdc15a29"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_crossword.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_crossword.svg": {
       "icon": "glyphs-poly:grid-sm",
       "sha256": "e676f4b7d507e1ac1badba3c8c2d40c9710365a70898f57206186ae124e62293",
       "source_body_sha256": "2f9b1d208932662c600f3b4e6b7421e2be7231e377228be435c1140ccac324e8"
     },
-    "Glyphs Poly/Pack Icons (Mono)/quick_exit.svg": {
+    "Glyphs Poly/Pack Icons (Color)/quick_exit.svg": {
       "icon": "glyphs-poly:power",
       "sha256": "9a3b0eecd5534efaf213f9c495fd55c47a0e282603d1be3c48a517c25f5b5092",
       "source_body_sha256": "3437b51221d0c23810d71b92448884b680201eb64ddbc75f4e5f2c2be5d0cb61"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_incognito.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_incognito.svg": {
       "icon": "glyphs-poly:person-private",
       "sha256": "f4799725727d27ffeab4731650c76f0ccd0746039b9b38062e51de15801eabc0",
       "source_body_sha256": "85c72173d65fe9b3b811b63126effddd4b621316a37848f7f643e6bdb228e790"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_localsend.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_localsend.svg": {
       "icon": "glyphs-poly:send",
       "sha256": "0ba20f6b53eebf96095c6c95c703caa62b475b9c0e565dbcdc384301aa4691f5",
       "source_body_sha256": "8a04052fcdc37bf4d0c04d56ddf41ea2bd30f3ceed54a0521d92c329459a58fe"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_lockdown.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_lockdown.svg": {
       "icon": "glyphs-poly:lock",
       "sha256": "a16af1ae06d560fc23c912f77729acd9c2f5f1ad3818d36af3b2cbcc753f6174",
       "source_body_sha256": "f690ce8fef430228fb9e0e7c806d92bf9df51a10a9f55f2a361d83b6e46452a1"
     },
-    "Glyphs Poly/Pack Icons (Mono)/quick_nightmode.svg": {
+    "Glyphs Poly/Pack Icons (Color)/quick_nightmode.svg": {
       "icon": "glyphs-poly:moon",
       "sha256": "089deccaad5338febe06be3ef8cf063b5b16dd2748dd8c89dd9111a788c4a8f5",
       "source_body_sha256": "a84faafd716a6ff75a9173cf67ed001923eeb41f22eea8998e5408a4cc1b7e65"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_opds.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_opds.svg": {
       "icon": "glyphs-poly:books",
       "sha256": "0ecbbd7348a711609b58c06f1913acab9ab3a07ba45ef17071ab2f5c9c259094",
       "source_body_sha256": "6efacfe44fe087f5147f6e8b2132607943cd21328c1949f2e7f18d0f40a2c7d9"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_puzzle.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_puzzle.svg": {
       "icon": "glyphs-poly:puzzle",
       "sha256": "eb6e53a6bec454aa909547c5965d33083b7f5c5ed800fa37380943a4c7c901cd",
       "source_body_sha256": "dbbec79212d4bd2f171c691fce155d170f94efc2a34bcf52a1dea2f964f9df5a"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_rotate.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_rotate.svg": {
       "icon": "glyphs-poly:arrows-round",
       "sha256": "a79d978636cffd3d96a6358e01fc3ba9d0ec436c3114974ddca265188c784b55",
       "source_body_sha256": "3816ba052491b75e903f618f0f579f02b05ff4af225d5d924bde978dfe49b876"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_screenshot.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_screenshot.svg": {
       "icon": "glyphs-poly:camera",
       "sha256": "6a64f682f7e7634d0d55a61b7eba974372ef8eb12cd8343723a02b1feeebed04",
       "source_body_sha256": "954b36dc60b075d2362a1d1f1dc9fec8d7d1ef080cd81d81b44ce676d5926292"
     },
-    "Glyphs Poly/Pack Icons (Mono)/quick_search.svg": {
+    "Glyphs Poly/Pack Icons (Color)/quick_search.svg": {
       "icon": "glyphs-poly:search",
       "sha256": "98d43ede346bb31120d4e4e71a16e1e7cc108c5b178e05b26bcc0f637d8c46fa",
       "source_body_sha256": "e703f75791d0ca19c31c1db4d4b5d8d0508a3ac7777984c7e441f0930632facc"
     },
-    "Glyphs Poly/Pack Icons (Mono)/quick_stats_calendar.svg": {
+    "Glyphs Poly/Pack Icons (Color)/quick_stats_calendar.svg": {
       "icon": "glyphs-poly:calendar",
       "sha256": "42d11ee8503a214aa5c568b3e82cd37e618befe030158c8d7817aac804d77729",
       "source_body_sha256": "963bb810cd5739283a759c7c00958e448547a455ecfad952418f847622984db5"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_streak.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_streak.svg": {
       "icon": "glyphs-poly:fire",
       "sha256": "41664baf60474c88369cc2ac79cc5b5c4ecf70dadd93c6bb4f085945c8499e7b",
       "source_body_sha256": "af101f5fe85690ef821417e0c4365d8a8284521376d057fc3a81067bdd6927ff"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_sync.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_sync.svg": {
       "icon": "glyphs-poly:arrows-exchange",
       "sha256": "eae7291bbb7c033bb60c07cb649743c59ce4a3d84dc30c176a737564a7da5572",
       "source_body_sha256": "a061c858c7cdcb110604b94490604529e79abfc13372d68c0965de8707b00edb"
     },
-    "Glyphs Poly/Pack Icons (Mono)/quick_wifi.svg": {
+    "Glyphs Poly/Pack Icons (Color)/quick_wifi.svg": {
       "icon": "glyphs-poly:wifi",
       "sha256": "2adb339a9f0cc414637ec3e830c06c1cd964c81f21226cdde6bbaf4ac8dacb44",
       "source_body_sha256": "6d260fed308400c1a74ea4a45113c33dd5fb9b5513139e4e4a83946ddf17eff1"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_zen.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_zen.svg": {
       "icon": "glyphs-poly:spa",
       "sha256": "d9e9367a952f3722d83a82e139dd409c315aa364907c7a3f85afd3241a9b48c3",
       "source_body_sha256": "7fc9bb74351ea0a345329568239b84e2f97d1962bc8331c75f2696258f420d0a"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/quick_zlib.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/quick_zlib.svg": {
       "icon": "glyphs-poly:books",
       "sha256": "0ecbbd7348a711609b58c06f1913acab9ab3a07ba45ef17071ab2f5c9c259094",
       "source_body_sha256": "6efacfe44fe087f5147f6e8b2132607943cd21328c1949f2e7f18d0f40a2c7d9"
     },
-    "Glyphs Poly/Pack Icons (Mono)/quicksettings.svg": {
+    "Glyphs Poly/Pack Icons (Color)/quicksettings.svg": {
       "icon": "glyphs-poly:sliders",
       "sha256": "5e7bf2d4eadb5d32a1a99c5f8e136dc28d5413b77db20457e9ed92662504c8dc",
       "source_body_sha256": "9b0acdc59c684e4ebdf078f875ce46afcdd6607906907889f4d47b9ce1322194"
     },
-    "Glyphs Poly/Pack Icons (Mono)/random_document.svg": {
+    "Glyphs Poly/Pack Icons (Color)/random_document.svg": {
       "icon": "glyphs-poly:arrows-route",
       "sha256": "a656fdeb9d9f7aa9a106a6cebeea41d9ca8187db868127292683bf7d0ae4ad93",
       "source_body_sha256": "bcc75dc547a39e8e703d7a7685fe8b3788ae5003267581341c4c648686c5cad4"
     },
-    "Glyphs Poly/Pack Icons (Mono)/recent.svg": {
+    "Glyphs Poly/Pack Icons (Color)/recent.svg": {
       "icon": "glyphs-poly:history",
       "sha256": "4b9a51c35fe764aaa67cb81c1a8f3aa4c9ac8d1c1f6f12b17a0d90c9fa598fc0",
       "source_body_sha256": "638e7abd95dd2cf19d87ccf62b9262dd005f4cb04b73884c8c60c3c8f9cdd32e"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/records.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/records.svg": {
       "icon": "glyphs-poly:note-clipboard",
       "sha256": "0e2daee919ed869729f6fbc975d345c0330932ccb3499fec3f42bfab1ad6c9db",
       "source_body_sha256": "753d241ad03a284500914d05d7295f7cad24981b1e27dff44bdd193004ff2052"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/restart.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/restart.svg": {
       "icon": "glyphs-poly:replay",
       "sha256": "0d5c0cab6b6844fe7bb763a0db38b5b733fadd149c6372143088a4ce1f749bfb",
       "source_body_sha256": "08efa9324cec1c4576579172fb0118c57a99c31bdc6d0d06d95a522dd4adee17"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/scan.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/scan.svg": {
       "icon": "glyphs-poly:barcode-scan",
       "sha256": "25a25ea55d375faebc9567b6e108f501097ed76dda7820d606c0b44649418bec",
       "source_body_sha256": "5a9dd34a12dca77c4de54f990fcd68d466670f306232cd6198a40729306dfb52"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/share.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/share.svg": {
       "icon": "glyphs-poly:share",
       "sha256": "c4d29e22376b1166633772b9accc304af1efedcda08cb45960fd93c360a54be0",
       "source_body_sha256": "71a1f0a657633d559eff8e79e0223e767aad330335df21f146067cdc26a00988"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/shield_check.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/shield_check.svg": {
       "icon": "glyphs-poly:check-badge",
       "sha256": "9df7d8db22e5e882529ee4c45cd7b1c2090cd91daca9f70ac5cb6b512dcf0b43",
       "source_body_sha256": "81bc64d4e4d2f5c8364331a0b631cecb805b6e68ad561db2f37cd8d20a1b77c1"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/shield_warning.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/shield_warning.svg": {
       "icon": "glyphs-poly:shield-exclamation",
       "sha256": "0402413755a0e9c29a6088960ac0932230b1854ee86560d72faba67261580e48",
       "source_body_sha256": "6f54df0c2c012e6ddb6409bf4bdf6ced4f0f178c61d925f795a02cff95ec910f"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/skip_left.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/skip_left.svg": {
       "icon": "glyphs-poly:seek-step",
       "sha256": "cebc4b595e53a1c6e0fc4dc8ddfecfa2c5cc4df69c7308706150adcfa5ad339f",
       "source_body_sha256": "58158b6a97e84d9b658c269e9dc7c1aa83212a8628e71fe865910b7ea4dc42a3",
@@ -705,37 +705,37 @@
         "mirror"
       ]
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/skip_right.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/skip_right.svg": {
       "icon": "glyphs-poly:seek-step",
       "sha256": "41ca56ba190083a50199e34ac882cd5be96b516af4e13d085cd8a71c62f37cee",
       "source_body_sha256": "58158b6a97e84d9b658c269e9dc7c1aa83212a8628e71fe865910b7ea4dc42a3"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/sleep.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/sleep.svg": {
       "icon": "glyphs-poly:snooze",
       "sha256": "09f507e85e7c2401d853c8520690d2023a56238b148c226c4cabab613792ed00",
       "source_body_sha256": "d6af925b3e9f0464fb39cc6665face1f65ea6f726e643faf1b392c019ac3bd0e"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/sort.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/sort.svg": {
       "icon": "glyphs-poly:sort",
       "sha256": "db8bcdf3de4e500d09f3fd195253485e268852fa1cf2b170d0cd9964e575bd38",
       "source_body_sha256": "642892e505a8c08c50a66d4605848f3e0e9f2bb35a1796aac24357c78797211b"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/sort_asc.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/sort_asc.svg": {
       "icon": "glyphs-poly:sort-amount-up",
       "sha256": "2d7d13c30501f9a9c202f0c7475a40eef2f02a03d2666d1f87a3ddc52a2e7e00",
       "source_body_sha256": "c314a3bcf568a18c7f60bc2eb9aac4d1ffaf20390bb16c59a2ca8f0c9fed5350"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/sort_desc.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/sort_desc.svg": {
       "icon": "glyphs-poly:sort-amount-down",
       "sha256": "dfac9c56b35a053947d521859f6fcdf17d86734fe1489538781a7ba48af0a231",
       "source_body_sha256": "5f5fe98b76fa19be285c3b4b3aa9400fd9bc231cdc59d59120a848a5c6dcb78c"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/speed.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/speed.svg": {
       "icon": "glyphs-poly:playback-speed",
       "sha256": "d1a79e9a6f553fdb888ac24c4810d3e95602166141a9eb8ba263cb6d1f79186b",
       "source_body_sha256": "46499d495a94266cb0742d58d6bec20b361b19dc15a63eed7001716a664fee03"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/star.empty.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/star.empty.svg": {
       "icon": "glyphs-poly:star",
       "sha256": "68222d1108d0dc5df369d1d33cfea651391ac13cfac3f9f0fe9998aa4be4c68f",
       "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b",
@@ -743,12 +743,12 @@
         "outline"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/star.full.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/star.full.svg": {
       "icon": "glyphs-poly:star",
       "sha256": "fd10b40fd66003d03ff9565b09ca9bf59fe42bded0f302a377978d1b5125bc39",
       "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/star.white.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/star.white.svg": {
       "icon": "glyphs-poly:star",
       "sha256": "02e1e083be415a35fe17fef313b721100f268677cf5f1c5fc1952a149554b104",
       "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b",
@@ -756,42 +756,42 @@
         "white"
       ]
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/sun.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/sun.svg": {
       "icon": "glyphs-poly:sun",
       "sha256": "02858ffdb4e54334b3848bc8006ec2fa24f1f87d3ccfef4a6282a99771642fa1",
       "source_body_sha256": "18f028e7150bb066731b9f7a0bf5139b6c8b3c166890a743f81c2b0fcd6c96e2"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_authors.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_authors.svg": {
       "icon": "glyphs-poly:users",
       "sha256": "0afe2c8e0e3e54305465115df82e29d055a6bbad4bee571148d5cdedb6fe1343",
       "source_body_sha256": "65e892fd5405f2a6a5568c28f00a4da818d886f7acdfe81f30db30f8dcc15838"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_collections.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_collections.svg": {
       "icon": "glyphs-poly:album-collection",
       "sha256": "fe22e9c1fdd2e44d66654657c88ac484529775217a4cc0ae638a284dadda09ca",
       "source_body_sha256": "4f8cbeba219ffbece14d7836a6fc4bc1143dfbffa2d7a3c73a88b881e3aaa4f7"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_continue.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_continue.svg": {
       "icon": "glyphs-poly:book-open",
       "sha256": "e0ae4860d99ec2e901e01f2778cd4f164aa94f30b8894442f5e8d820523627f1",
       "source_body_sha256": "00899287ce19a517e6e5819312b4769eab92b38e5ff58c0cbdfb90985e8a2fd3"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_favorites.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_favorites.svg": {
       "icon": "glyphs-poly:star",
       "sha256": "fd10b40fd66003d03ff9565b09ca9bf59fe42bded0f302a377978d1b5125bc39",
       "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_filebrowser.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_filebrowser.svg": {
       "icon": "glyphs-poly:folder",
       "sha256": "1c7d9c32a737ef236b9257edb7aad1de60cd5b7322225c44ef0ea90a63c0f24f",
       "source_body_sha256": "11fba9ed5f2a6a093c9d5a566103c9482b157fb89f487ffcb4d8640f5a2b3e86"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_history.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_history.svg": {
       "icon": "glyphs-poly:history",
       "sha256": "4b9a51c35fe764aaa67cb81c1a8f3aa4c9ac8d1c1f6f12b17a0d90c9fa598fc0",
       "source_body_sha256": "638e7abd95dd2cf19d87ccf62b9262dd005f4cb04b73884c8c60c3c8f9cdd32e"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_left.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_left.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "594bd8af792f4cadacae4696669c27ecb0456f1ee71456e493b3f3488f2b4e09",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
@@ -799,17 +799,17 @@
         "rotate:-90"
       ]
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/tab_manga.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/tab_manga.svg": {
       "icon": "glyphs-poly:album",
       "sha256": "e39ce3ea580fa4df2d94cb839ecbe1614400980ac0930e0e65167a15be6a4ffd",
       "source_body_sha256": "93d1026fa36d48c9ceabe80f0173291914efd81dd7fdef9c5bfc74aca6f70d41"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/tab_news.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/tab_news.svg": {
       "icon": "glyphs-poly:file",
       "sha256": "386b696920ec38ca678cff52b188e292d003366e63a1197f2beff2fa2ae70185",
       "source_body_sha256": "fbe7605dc88282ddb54da456315d971c2295d0341508731ef7302a0b8fdbf8ff"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_right.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_right.svg": {
       "icon": "glyphs-poly:chevron",
       "sha256": "7c96db9dfed8d67a1171e42c0be8db3b32f07bb308501f83c81b758cb5600cff",
       "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
@@ -817,92 +817,92 @@
         "rotate:90"
       ]
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_series.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_series.svg": {
       "icon": "glyphs-poly:book-spine",
       "sha256": "d02dc03230c2342e432e1374d6b48616bfc6267824faabaacd4464ca13128f8d",
       "source_body_sha256": "ad253b8c18ef5c136095f9f82b89de2166885273281bd613a04abc88c027dfae"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/tab_stats.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/tab_stats.svg": {
       "icon": "glyphs-poly:chart-bar",
       "sha256": "60ba36e1b30c7483ee09ee7dc82f2dde0eee5f3bf42d5941587df2d2dc962f98",
       "source_body_sha256": "15f8a48021714ac9e9330cb77aff498ed752396ffaa4659967a18b8fd03206c5"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_tags.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_tags.svg": {
       "icon": "glyphs-poly:tags",
       "sha256": "e86caf67a825cc833ddc77c4396e52afcfabb5d41f84d7adf0d52954f9fa68a7",
       "source_body_sha256": "aacb202d5b7793d9b5911d1cfb24ae4ebea83d3b89cb2c954a2032e1f5313fbd"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_to_be_read.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_to_be_read.svg": {
       "icon": "glyphs-poly:bookmark",
       "sha256": "ebf9c3fdd778fdcdd1237a540715c8f9cdb0718422e30af351e21c6bd794bb97",
       "source_body_sha256": "15f6d0ec25119e7b308d0b62a6f835c7f4f30c30751553eb114901a7eeadcfc7"
     },
-    "Glyphs Poly/Pack Icons (Mono)/tab_tools.svg": {
+    "Glyphs Poly/Pack Icons (Color)/tab_tools.svg": {
       "icon": "glyphs-poly:tools",
       "sha256": "ff9359db231eccf5c57b2bb885e7f351f9dc60ecf6f0547359f7791816feab33",
       "source_body_sha256": "d1161e174696bcd97b08b13925dace7d58d3cae28f89e6b0a39696cee2406455"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/tab_vocab.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/tab_vocab.svg": {
       "icon": "glyphs-poly:book-open",
       "sha256": "e0ae4860d99ec2e901e01f2778cd4f164aa94f30b8894442f5e8d820523627f1",
       "source_body_sha256": "00899287ce19a517e6e5819312b4769eab92b38e5ff58c0cbdfb90985e8a2fd3"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/tablet.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/tablet.svg": {
       "icon": "glyphs-poly:tablet",
       "sha256": "eabfa63b779b7e39cd27176266902cc602548288f401fecaf8f57f47a991a367",
       "source_body_sha256": "df25a21726b1c2d9dc783856dd41865b34c5784276acdd4bdbecc062f953b62c"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/terminal.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/terminal.svg": {
       "icon": "glyphs-poly:cli",
       "sha256": "02ffa86d5f571a7baf302c260afcaec609fa11c851d69b0b1f384255a7d2a82e",
       "source_body_sha256": "3b41bed4b39b98e1a50c12ab1643883213a9cab6000ade2897e08a5679d8da83"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/time.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/time.svg": {
       "icon": "glyphs-poly:clock",
       "sha256": "e4c0f9e3b49bb0359a88a7856445a1641e2578d5e9ddd49e59aee492865adbae",
       "source_body_sha256": "65abaebe774328d81cc951a48131b8bac4082bfa326b2d2ba826384867f90925"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/timer.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/timer.svg": {
       "icon": "glyphs-poly:timer",
       "sha256": "26da650fc814a9f8a1ca5938b19cdc1e33abd0dd135876974ca2d6533d39f31c",
       "source_body_sha256": "bc7d8a465e61178ace067c38121abc13d5b389a99ca7cd78d233c962069b4aed"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/toc.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/toc.svg": {
       "icon": "glyphs-poly:bars",
       "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
       "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/trash.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/trash.svg": {
       "icon": "glyphs-poly:trash",
       "sha256": "14f64c52038878749a2cd1df7eb5938f7d4ab835502b4b22e105957ce34513d0",
       "source_body_sha256": "e803c13735eed6edb46993719502e14688e30ae99dd51981aa4f2a86b5f829b2"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/triangle.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/triangle.svg": {
       "icon": "glyphs-poly:caret",
       "sha256": "85c2b095f338fcc332a24c3519b718bc6a665924aa5685b318b1e8711bbbcdcf",
       "source_body_sha256": "74d57f11e728c2f91de8489a972aeaa34c99eb3db69411a95b60de6b3de65013"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/tuning.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/tuning.svg": {
       "icon": "glyphs-poly:sliders",
       "sha256": "5e7bf2d4eadb5d32a1a99c5f8e136dc28d5413b77db20457e9ed92662504c8dc",
       "source_body_sha256": "9b0acdc59c684e4ebdf078f875ce46afcdd6607906907889f4d47b9ce1322194"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/upload.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/upload.svg": {
       "icon": "glyphs-poly:arrow-line-start",
       "sha256": "5a8f6ee1c25a276c218c6f6e677bba52b363f919d418f4b54f3ee7b4a51d39fe",
       "source_body_sha256": "a2fd148f09d4017c436dddbd205c414dedb14a0aebe9c85a6abca2782da77941"
     },
-    "Glyphs Poly/Supplementary Icons (Mono)/warmth.svg": {
+    "Glyphs Poly/Supplementary Icons (Color)/warmth.svg": {
       "icon": "glyphs-poly:temperature-hot",
       "sha256": "1c79afe8cb4fe301e73166294a271f2125f8b7676e4c2d8abe69e1cbdd8bbbbc",
       "source_body_sha256": "2096d94302ec84a5f0a59bae2ee8dfee819663f645e2bcb3deae9cc49e9d9b35"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/wifi.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/wifi.svg": {
       "icon": "glyphs-poly:wifi",
       "sha256": "2adb339a9f0cc414637ec3e830c06c1cd964c81f21226cdde6bbaf4ac8dacb44",
       "source_body_sha256": "6d260fed308400c1a74ea4a45113c33dd5fb9b5513139e4e4a83946ddf17eff1"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/wifi.open.0.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/wifi.open.0.svg": {
       "icon": "glyphs-poly:wifi-1",
       "sha256": "2809a5ca7741dcb67683589f8dd55db0fd8538a82793dc7431f52b0c3ab66015",
       "source_body_sha256": "2e84276ad1a0501b115e6a9b6e137c1365555fd32c960f1b4dca0ba5172feca9",
@@ -910,7 +910,7 @@
         "dot-only"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/wifi.open.100.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/wifi.open.100.svg": {
       "icon": "glyphs-poly:wifi-100",
       "sha256": "c3fb964de5fe3aa0b54abc16f71a4e7befc0ac0559c43fba7b7763af263eda2a",
       "source_body_sha256": "fb7bba77cc26eab6541f9a1fb61acd189d4ac2df288a620c1727584f4592eaa5",
@@ -918,32 +918,32 @@
         "inline-use"
       ]
     },
-    "Glyphs Poly/KOReader Icons (Mono)/wifi.open.25.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/wifi.open.25.svg": {
       "icon": "glyphs-poly:wifi-25",
       "sha256": "d85d7e60ef4dd5d5d6ffd91f3162926c28be634a50c111f1b46d4e42e4c96de4",
       "source_body_sha256": "d25207bc52507f42cec3c7a6794dead3037e4ffff75ef6f9de0cf1b1c9e0a143"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/wifi.open.50.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/wifi.open.50.svg": {
       "icon": "glyphs-poly:wifi-50",
       "sha256": "4f97f19a02242d7d7861f0db0d2f63f7e8d71813b61604053048b83094cfe087",
       "source_body_sha256": "fa8786cbc3acb4ecf1e12d22389266062edb34134692cec594bbfd12c59f0e71"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/wifi.open.75.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/wifi.open.75.svg": {
       "icon": "glyphs-poly:wifi-75",
       "sha256": "be884c8c49743eda8e122bf88878794c0456df6bb050a23e6fd380343e781711",
       "source_body_sha256": "c4a25b0f9f0b556635734bd51063a8839d653fd5e786a15e61c964ce391b3a81"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/zoom.content.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/zoom.content.svg": {
       "icon": "glyphs-poly:center-focus-strong",
       "sha256": "3f1262d2bf70de3121a65bb227c02ef39c64395e91af53c715d70bc258b02179",
       "source_body_sha256": "741a311b88100be68151a737b13afd7f2f5703a6d890ca63ca19b48a01b31250"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/zoom.manual.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/zoom.manual.svg": {
       "icon": "glyphs-poly:zoom-in",
       "sha256": "fd16874aa2ca84074cd9edd30c65ad0fd4f3fd5e274061b07be61981d2e53d9f",
       "source_body_sha256": "8ae6b54f0921ba9ee68d37a83a702a26a0094a6ea82360106f2d2ce74b7dfb95"
     },
-    "Glyphs Poly/KOReader Icons (Mono)/zoom.page.svg": {
+    "Glyphs Poly/KOReader Icons (Color)/zoom.page.svg": {
       "icon": "glyphs-poly:view-expand",
       "sha256": "f3f3ceb5f2e20e79d6b5260793ee84c6ae790be5cdfec6ed6f93f875997c8000",
       "source_body_sha256": "62bbb569bc29e1a864cb449ff5bc9bb01df497716d33ed53f6bb14950f6252e8"

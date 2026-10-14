@@ -1,4 +1,4 @@
-name: Release Zen icon packs
+name: Release Glyphs Poly color icon pack
 
 on:
   push:
@@ -55,4 +55,4 @@ jobs:
         run: |
           gh release create "$RELEASE_TAG" dist/zen-*.zip \
             --target "$GITHUB_SHA" --generate-notes \
-            --title "Icon Packs for ZenOS $RELEASE_TAG"
+            --title "Glyphs Poly Color for ZenOS $RELEASE_TAG"
