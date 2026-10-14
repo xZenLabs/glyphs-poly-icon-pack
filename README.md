@@ -3,10 +3,11 @@
 Color replacement icons for [ZenOS](https://github.com/xZenLabs/zen-os),
 KOReader, and ZenPM, using [Glyphs Poly](https://icon-sets.iconify.design/glyphs-poly/)
 by **Goran Spasojevic**. Created with GitHub's **Use this template** feature from
-[xZenLabs/icon-pack-template](https://github.com/xZenLabs/icon-pack-template),
-which uses the Solar pack's builder and release workflow.
+[Zen icon pack template](https://github.com/xZenLabs/icon-pack-template).
 
-![Glyphs Poly icon preview](.github/preview.svg)
+## Icon overviews
+
+![Glyphs Poly: selected KOReader controls, library tabs, and common actions](.github/overview-glyphs-poly.png)
 
 ## What's included
 
@@ -28,7 +29,7 @@ with KOReader's NanoSVG renderer. Related actions may share artwork.
 Bluetooth, USB, CPU, database, secured Wi-Fi levels, exact reading-direction and
 rotation states, dog-ear status markers, and other unmatched controls keep
 their bundled icons. The [source map](icon-sources.json) records every source
-icon, checksum, transformation, and omitted Solar source lookup. Font glyphs,
+icon, checksum, transformation, and omitted source lookup. Font glyphs,
 downloaded package logos, and package previews retain their own artwork.
 ZenPM replacements require a frontend that supports the selected ZenOS icon pack.
 
@@ -96,9 +97,8 @@ Release runs are serialized.
 - **Pinned source:** [Iconify Glyphs Poly data](https://github.com/iconify/icon-sets/blob/0576187342d061cb9ad9ad6ee922f9ee36974df4/json/glyphs-poly.json)
   at revision `0576187342d061cb9ad9ad6ee922f9ee36974df4`.
 - **Packaging:** [xZenLabs](https://github.com/xZenLabs), from the
-  [Solar-based icon-pack template](https://github.com/xZenLabs/icon-pack-template).
-  Repository code is **AGPL-3.0**; see [LICENSE](LICENSE). No Solar artwork is included
-  in this pack's source tree or release ZIP.
+  [Zen icon pack template](https://github.com/xZenLabs/icon-pack-template).
+  Repository code is **AGPL-3.0**; see [LICENSE](LICENSE).
 
 Report problems through [repository issues](https://github.com/xZenLabs/glyphs-poly-icon-pack/issues).
 Support ZenLabs projects on [Ko-fi](https://ko-fi.com/xzenlabs).
