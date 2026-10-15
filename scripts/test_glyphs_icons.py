@@ -19,8 +19,8 @@ class GlyphsIconsTest(unittest.TestCase):
                  for path in (root / "Glyphs Poly").rglob("*.svg")}
         self.assertEqual(set(files), set(inventory["icons"]))
         self.assertEqual({path.parent.name for path in files.values()},
-                         {"Pack Icons (Color)", "KOReader Icons (Color)",
-                          "Supplementary Icons (Color)"})
+                         {"navbar", "controls", "launcher", "zenpm", "lookup",
+                          "menus", "reader", "device", "koreader"})
         self.assertEqual(inventory["license"]["spdx"], "MIT")
         self.assertFalse(list(root.glob("Solar *")))
         supported = {"svg", "g", "path", "rect", "circle", "ellipse", "line",

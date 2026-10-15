@@ -50,6 +50,39 @@ class BuildPacksTest(unittest.TestCase):
                         self.assertEqual(json.loads(archive.read(prefix + "pack.json")),
                                          dict(metadata, version="2.3.4"))
 
+    def test_grouped_pack_builds_directly_and_keeps_explicit_alias_artwork(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            pack, output = root / "Grouped", root / "output"
+            files = {
+                "navbar/tab_books.svg": SVG,
+                "controls/quick_search.svg": SVG,
+                "koreader/appbar.search.svg": SVG.replace(b"48", b"24"),
+                "koreader/book_open.svg": SVG,
+                "koreader/appbar.textsize.svg": SVG,
+                "navbar/tab_left.svg": SVG,
+                "navbar/tab_right.svg": SVG,
+                "zenpm/packages.svg": SVG,
+            }
+            for name, data in files.items():
+                path = pack / name
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_bytes(data)
+            (pack / "pack.json").write_text(json.dumps({
+                "schema_version": 1, "id": "zen-grouped", "name": "Grouped for ZenOS",
+            }))
+            for source in (root, pack):
+                with self.subTest(source=source):
+                    self.assertEqual(list(builder.pack_sources(source, output)), [(pack, [pack])])
+                    with patch("sys.argv", ["build-zen-packs.py", str(source),
+                                            "--output", str(output)]):
+                        builder.main()
+                    with zipfile.ZipFile(output / "zen-grouped.zip") as archive:
+                        self.assertTrue(all(len(Path(name).parts) == 2
+                                            for name in archive.namelist()))
+                        for name, data in files.items():
+                            self.assertEqual(archive.read("zen-grouped/" + Path(name).name), data)
+
     def test_color_metadata_survives_repository_and_direct_builds(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)

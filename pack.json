@@ -2,7 +2,7 @@
   "schema_version": 1,
   "id": "zen-glyphs-poly",
   "name": "Glyphs Poly for ZenOS",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Goran Spasojevic; packaged by xZenLabs",
   "color": true
 }

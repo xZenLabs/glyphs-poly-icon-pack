@@ -13,7 +13,7 @@ by **Goran Spasojevic**. Created with GitHub's **Use this template** feature fro
 
 | Pack | Source SVGs | Built SVG lookups | Release asset |
 |---|---|---|---|
-| Glyphs Poly | 175 | 252 | `zen-glyphs-poly.zip` |
+| Glyphs Poly | 250 | 250 | `zen-glyphs-poly.zip` |
 
 The pack covers navigation, library tabs, quick actions, reader menus, chevrons,
 text alignment, column layouts, stars, open Wi-Fi signal levels, batteries,
@@ -61,6 +61,38 @@ directory, keeping `pack.json` and the SVGs directly inside the pack folder.
 To restore the defaults, disable **Custom icons** and restart KOReader.
 See the [ZenOS icon-pack guide](https://github.com/xZenLabs/zen-os/blob/main/docs/icon-packs.md).
 
+## Source layout
+
+Each style keeps category folders directly beside `pack.json`.
+Categories without replacement artwork can be absent:
+
+```text
+<Style>/
+├── pack.json
+├── navbar/
+├── controls/                 # Quick settings and Zen controls
+├── launcher/
+├── zenpm/                    # Includes verification shields
+├── lookup/
+├── menus/                    # Zen menu entry points
+├── reader/                   # Page browser: TOC, vocabulary, view modes
+├── device/
+└── koreader/                 # Stock KOReader icons, including plus/info
+```
+
+[ICON-LIST.md](ICON-LIST.md) lists the filenames by category. Page-browser TOC, vocabulary-builder,
+and view icons belong in `reader/`. All stock KOReader icons, including `appbar.*`,
+the Aa font button, plus/info, bookmarks, and `book_open`, belong in `koreader/`. Quick settings
+belong in `controls/`; `tab_left` and `tab_right` belong in `navbar/`.
+Shared lookup names appear only once per style;
+different lookup names can be edited independently.
+
+Legacy SimpleUI `qa_group` and `qa_plugin` files are omitted. ZenPM uses
+`plugin.svg`; its verification shields belong in `zenpm/`.
+The builder flattens the categories into the pack root in release ZIPs,
+so installed lookup names and artwork remain unchanged apart from the two
+obsolete SimpleUI names. Missing icons keep their normal bundled fallbacks.
+
 ## Build and check
 
 ```sh
@@ -79,7 +111,7 @@ python3 scripts/build-zen-packs.py "Glyphs Poly" --output dist --version 1.0.0
 ```
 
 The template builder validates SVG documents, manifests, and archive limits,
-preserves the source files, and generates application lookup aliases. Tests
+preserves the grouped source files and their exact lookup filenames. Tests
 also check source checksums, SVG element compatibility, fallback coverage,
 and distinct icon states. SVGs are validated but are not sanitized.
 
