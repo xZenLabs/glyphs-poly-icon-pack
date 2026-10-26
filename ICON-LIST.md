@@ -15,6 +15,7 @@ Release ZIPs flatten the categories into the pack root.
 | [menus](#menus) | Zen menu entry points. |
 | [reader](#reader) | Page-browser TOC, vocabulary builder, and single/carousel/grid view modes. |
 | [device](#device) | Zen battery, lighting, power, hardware, and system indicators. |
+| [settings](#settings) | ZenOS settings menu rows, mirroring ZenOS's bundled `settings_*` lookups. |
 | [koreader](#koreader) | Stock KOReader icons, including appbar, plus/info, bookmarks, and book_open. |
 
 ## navbar
@@ -232,8 +233,12 @@ from [koreader](#koreader).
 | Lookup filename | Glyphs Poly |
 |---|---|
 | `coverflow.svg` | [SVG](Glyphs%20Poly/reader/coverflow.svg) |
+| `footnote.svg` | [SVG](Glyphs%20Poly/reader/footnote.svg) |
 | `grid.svg` | [SVG](Glyphs%20Poly/reader/grid.svg) |
 | `grid_slide.svg` | [SVG](Glyphs%20Poly/reader/grid_slide.svg) |
+| `pin.svg` | [SVG](Glyphs%20Poly/reader/pin.svg) |
+| `return.svg` | [SVG](Glyphs%20Poly/reader/return.svg) |
+| `return_old.svg` | [SVG](Glyphs%20Poly/reader/return_old.svg) |
 | `tab_vocab.svg` | [SVG](Glyphs%20Poly/reader/tab_vocab.svg) |
 | `toc.svg` | [SVG](Glyphs%20Poly/reader/toc.svg) |
 
@@ -261,6 +266,91 @@ Zen battery, lighting, power, hardware, and system indicators.
 | `time.svg` | [SVG](Glyphs%20Poly/device/time.svg) |
 | `timer.svg` | [SVG](Glyphs%20Poly/device/timer.svg) |
 | `warmth.svg` | [SVG](Glyphs%20Poly/device/warmth.svg) |
+
+## settings
+
+ZenOS settings menu rows, mirroring ZenOS's bundled `settings_*` lookups.
+
+| Lookup filename | Glyphs Poly |
+|---|---|
+| `settings_archive_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_archive_outline.svg) |
+| `settings_arrow_up_circle_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_arrow_up_circle_outline.svg) |
+| `settings_backup_restore.svg` | [SVG](Glyphs%20Poly/settings/settings_backup_restore.svg) |
+| `settings_battery_70.svg` | [SVG](Glyphs%20Poly/settings/settings_battery_70.svg) |
+| `settings_blur.svg` | [SVG](Glyphs%20Poly/settings/settings_blur.svg) |
+| `settings_book_check.svg` | [SVG](Glyphs%20Poly/settings/settings_book_check.svg) |
+| `settings_book_cog_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_book_cog_outline.svg) |
+| `settings_book_multiple_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_book_multiple_outline.svg) |
+| `settings_book_open_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_book_open_variant.svg) |
+| `settings_bookshelf.svg` | [SVG](Glyphs%20Poly/settings/settings_bookshelf.svg) |
+| `settings_brush.svg` | [SVG](Glyphs%20Poly/settings/settings_brush.svg) |
+| `settings_calendar_month_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_calendar_month_outline.svg) |
+| `settings_chart_line.svg` | [SVG](Glyphs%20Poly/settings/settings_chart_line.svg) |
+| `settings_clipboard_play_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_clipboard_play_outline.svg) |
+| `settings_clock_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_clock_outline.svg) |
+| `settings_cloud_download_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_cloud_download_outline.svg) |
+| `settings_cog.svg` | [SVG](Glyphs%20Poly/settings/settings_cog.svg) |
+| `settings_content_save.svg` | [SVG](Glyphs%20Poly/settings/settings_content_save.svg) |
+| `settings_cursor_move.svg` | [SVG](Glyphs%20Poly/settings/settings_cursor_move.svg) |
+| `settings_delete_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_delete_outline.svg) |
+| `settings_division.svg` | [SVG](Glyphs%20Poly/settings/settings_division.svg) |
+| `settings_dock_bottom.svg` | [SVG](Glyphs%20Poly/settings/settings_dock_bottom.svg) |
+| `settings_dots_grid.svg` | [SVG](Glyphs%20Poly/settings/settings_dots_grid.svg) |
+| `settings_drag_horizontal_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_drag_horizontal_variant.svg) |
+| `settings_draw_pen.svg` | [SVG](Glyphs%20Poly/settings/settings_draw_pen.svg) |
+| `settings_eye_off.svg` | [SVG](Glyphs%20Poly/settings/settings_eye_off.svg) |
+| `settings_file_tree.svg` | [SVG](Glyphs%20Poly/settings/settings_file_tree.svg) |
+| `settings_flash.svg` | [SVG](Glyphs%20Poly/settings/settings_flash.svg) |
+| `settings_folder_home_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_folder_home_outline.svg) |
+| `settings_folder_open_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_folder_open_outline.svg) |
+| `settings_folder_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_folder_outline.svg) |
+| `settings_folder_plus_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_folder_plus_outline.svg) |
+| `settings_format_horizontal_align_center.svg` | [SVG](Glyphs%20Poly/settings/settings_format_horizontal_align_center.svg) |
+| `settings_format_underline.svg` | [SVG](Glyphs%20Poly/settings/settings_format_underline.svg) |
+| `settings_gesture_double_tap.svg` | [SVG](Glyphs%20Poly/settings/settings_gesture_double_tap.svg) |
+| `settings_gesture_swipe_down.svg` | [SVG](Glyphs%20Poly/settings/settings_gesture_swipe_down.svg) |
+| `settings_gesture_swipe_up.svg` | [SVG](Glyphs%20Poly/settings/settings_gesture_swipe_up.svg) |
+| `settings_grid_large.svg` | [SVG](Glyphs%20Poly/settings/settings_grid_large.svg) |
+| `settings_harddisk.svg` | [SVG](Glyphs%20Poly/settings/settings_harddisk.svg) |
+| `settings_home_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_home_variant.svg) |
+| `settings_image_filter_hdr.svg` | [SVG](Glyphs%20Poly/settings/settings_image_filter_hdr.svg) |
+| `settings_image_multiple_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_image_multiple_outline.svg) |
+| `settings_keyboard.svg` | [SVG](Glyphs%20Poly/settings/settings_keyboard.svg) |
+| `settings_lightning_bolt.svg` | [SVG](Glyphs%20Poly/settings/settings_lightning_bolt.svg) |
+| `settings_lock.svg` | [SVG](Glyphs%20Poly/settings/settings_lock.svg) |
+| `settings_magnify.svg` | [SVG](Glyphs%20Poly/settings/settings_magnify.svg) |
+| `settings_memory.svg` | [SVG](Glyphs%20Poly/settings/settings_memory.svg) |
+| `settings_menu.svg` | [SVG](Glyphs%20Poly/settings/settings_menu.svg) |
+| `settings_palette.svg` | [SVG](Glyphs%20Poly/settings/settings_palette.svg) |
+| `settings_pan_horizontal.svg` | [SVG](Glyphs%20Poly/settings/settings_pan_horizontal.svg) |
+| `settings_play.svg` | [SVG](Glyphs%20Poly/settings/settings_play.svg) |
+| `settings_power_plug.svg` | [SVG](Glyphs%20Poly/settings/settings_power_plug.svg) |
+| `settings_receipt_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_receipt_outline.svg) |
+| `settings_reflect_horizontal.svg` | [SVG](Glyphs%20Poly/settings/settings_reflect_horizontal.svg) |
+| `settings_refresh.svg` | [SVG](Glyphs%20Poly/settings/settings_refresh.svg) |
+| `settings_restart.svg` | [SVG](Glyphs%20Poly/settings/settings_restart.svg) |
+| `settings_sleep.svg` | [SVG](Glyphs%20Poly/settings/settings_sleep.svg) |
+| `settings_sort_alphabetical_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_sort_alphabetical_variant.svg) |
+| `settings_sort_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_sort_variant.svg) |
+| `settings_square_edit_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_square_edit_outline.svg) |
+| `settings_star.svg` | [SVG](Glyphs%20Poly/settings/settings_star.svg) |
+| `settings_table_row.svg` | [SVG](Glyphs%20Poly/settings/settings_table_row.svg) |
+| `settings_tag.svg` | [SVG](Glyphs%20Poly/settings/settings_tag.svg) |
+| `settings_tag_multiple_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_tag_multiple_outline.svg) |
+| `settings_tag_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_tag_outline.svg) |
+| `settings_thermometer_lines.svg` | [SVG](Glyphs%20Poly/settings/settings_thermometer_lines.svg) |
+| `settings_toggle_switch.svg` | [SVG](Glyphs%20Poly/settings/settings_toggle_switch.svg) |
+| `settings_tools.svg` | [SVG](Glyphs%20Poly/settings/settings_tools.svg) |
+| `settings_translate.svg` | [SVG](Glyphs%20Poly/settings/settings_translate.svg) |
+| `settings_view_grid_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_view_grid_outline.svg) |
+| `settings_view_list_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_view_list_outline.svg) |
+| `settings_view_quilt.svg` | [SVG](Glyphs%20Poly/settings/settings_view_quilt.svg) |
+| `settings_wallpaper.svg` | [SVG](Glyphs%20Poly/settings/settings_wallpaper.svg) |
+| `settings_weather_night.svg` | [SVG](Glyphs%20Poly/settings/settings_weather_night.svg) |
+| `settings_weather_sunny.svg` | [SVG](Glyphs%20Poly/settings/settings_weather_sunny.svg) |
+| `settings_widgets.svg` | [SVG](Glyphs%20Poly/settings/settings_widgets.svg) |
+| `settings_wifi.svg` | [SVG](Glyphs%20Poly/settings/settings_wifi.svg) |
+| `view_carousel_outline.svg` | [SVG](Glyphs%20Poly/settings/view_carousel_outline.svg) |
 
 ## koreader
 

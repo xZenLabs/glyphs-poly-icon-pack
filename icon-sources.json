@@ -208,22 +208,6 @@
       "sha256": "fd10b40fd66003d03ff9565b09ca9bf59fe42bded0f302a377978d1b5125bc39",
       "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b"
     },
-    "Glyphs Poly/navbar/tab_left.svg": {
-      "icon": "glyphs-poly:chevron",
-      "sha256": "594bd8af792f4cadacae4696669c27ecb0456f1ee71456e493b3f3488f2b4e09",
-      "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
-      "transforms": [
-        "rotate:-90"
-      ]
-    },
-    "Glyphs Poly/navbar/tab_right.svg": {
-      "icon": "glyphs-poly:chevron",
-      "sha256": "7c96db9dfed8d67a1171e42c0be8db3b32f07bb308501f83c81b758cb5600cff",
-      "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
-      "transforms": [
-        "rotate:90"
-      ]
-    },
     "Glyphs Poly/device/backup.svg": {
       "icon": "glyphs-poly:save",
       "sha256": "537d0001212631ecd76ce5af6909c0e83b6c377cb24a4a9baf06e694cda8340d",
@@ -421,6 +405,11 @@
       "source_body_sha256": "a2fd148f09d4017c436dddbd205c414dedb14a0aebe9c85a6abca2782da77941"
     },
     "Glyphs Poly/koreader/book.opened.svg": {
+      "icon": "glyphs-poly:book-open",
+      "sha256": "e0ae4860d99ec2e901e01f2778cd4f164aa94f30b8894442f5e8d820523627f1",
+      "source_body_sha256": "00899287ce19a517e6e5819312b4769eab92b38e5ff58c0cbdfb90985e8a2fd3"
+    },
+    "Glyphs Poly/koreader/book_open.svg": {
       "icon": "glyphs-poly:book-open",
       "sha256": "e0ae4860d99ec2e901e01f2778cd4f164aa94f30b8894442f5e8d820523627f1",
       "source_body_sha256": "00899287ce19a517e6e5819312b4769eab92b38e5ff58c0cbdfb90985e8a2fd3"
@@ -737,11 +726,6 @@
       "sha256": "f87ed851c6162a5b1fa45863624c3db399bb393d7a8f45a6db628eb0bc927d0d",
       "source_body_sha256": "3204305e3a5d540c0d202a9b4ca362ec081f850b6ba5770889f62b1e10ed4ade"
     },
-    "Glyphs Poly/reader/coverflow.svg": {
-      "icon": "glyphs-poly:images",
-      "sha256": "75d458336fc2a9fec7602db04af10889fad0f26c786ebb68988818cc3f9bbb19",
-      "source_body_sha256": "b0fcfb9179a3ed061b56500fa7d1967e062e003fbd915e30264f4ccc12605f05"
-    },
     "Glyphs Poly/launcher/education.svg": {
       "icon": "glyphs-poly:graduation-cap",
       "sha256": "233dbac79b5a0ea1b70d9aedcf3e06f20867a4f28ed1a64a5461e09cbe3120a1",
@@ -786,16 +770,6 @@
       "icon": "glyphs-poly:globe",
       "sha256": "be3cfce321c0d06ef71faab5704a1f9a06ccafc68ffc23eb91d1855fed16c3bf",
       "source_body_sha256": "2e029e8cdb06821e56ad31e1ef06d7179d79d34a4ba8b9b8146dc8324ffdc9a5"
-    },
-    "Glyphs Poly/reader/grid.svg": {
-      "icon": "glyphs-poly:grid",
-      "sha256": "5bae08b371579b1e88bc21a327e66d980b1d5418d2a59db591c0d35ac978218b",
-      "source_body_sha256": "e28dba85816af0448c594371918124fa1b3e69f8bb6a0621c0aa04132f6199c3"
-    },
-    "Glyphs Poly/reader/grid_slide.svg": {
-      "icon": "glyphs-poly:grid-list",
-      "sha256": "39c74ed375bd15f6bb2f13fa8e0c64d838ba1d9f11511035aec746b82b8514a7",
-      "source_body_sha256": "8d41b5e000f8548f4050dfff3ac5297ebbe6bc36ef9a109acd8ef292c4fd7d79"
     },
     "Glyphs Poly/launcher/paint_palette.svg": {
       "icon": "glyphs-poly:palette",
@@ -987,6 +961,14 @@
       "sha256": "4b9a51c35fe764aaa67cb81c1a8f3aa4c9ac8d1c1f6f12b17a0d90c9fa598fc0",
       "source_body_sha256": "638e7abd95dd2cf19d87ccf62b9262dd005f4cb04b73884c8c60c3c8f9cdd32e"
     },
+    "Glyphs Poly/navbar/tab_left.svg": {
+      "icon": "glyphs-poly:chevron",
+      "sha256": "594bd8af792f4cadacae4696669c27ecb0456f1ee71456e493b3f3488f2b4e09",
+      "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
+      "transforms": [
+        "rotate:-90"
+      ]
+    },
     "Glyphs Poly/navbar/tab_manga.svg": {
       "icon": "glyphs-poly:album",
       "sha256": "e39ce3ea580fa4df2d94cb839ecbe1614400980ac0930e0e65167a15be6a4ffd",
@@ -996,6 +978,14 @@
       "icon": "glyphs-poly:file",
       "sha256": "386b696920ec38ca678cff52b188e292d003366e63a1197f2beff2fa2ae70185",
       "source_body_sha256": "fbe7605dc88282ddb54da456315d971c2295d0341508731ef7302a0b8fdbf8ff"
+    },
+    "Glyphs Poly/navbar/tab_right.svg": {
+      "icon": "glyphs-poly:chevron",
+      "sha256": "7c96db9dfed8d67a1171e42c0be8db3b32f07bb308501f83c81b758cb5600cff",
+      "source_body_sha256": "2039a2b0178a461fbdaeb1e595245f5f0112ce04294288420bac32e34ce9f12a",
+      "transforms": [
+        "rotate:90"
+      ]
     },
     "Glyphs Poly/navbar/tab_series.svg": {
       "icon": "glyphs-poly:books",
@@ -1040,12 +1030,44 @@
       "sha256": "be3cfce321c0d06ef71faab5704a1f9a06ccafc68ffc23eb91d1855fed16c3bf",
       "source_body_sha256": "2e029e8cdb06821e56ad31e1ef06d7179d79d34a4ba8b9b8146dc8324ffdc9a5"
     },
-    "Glyphs Poly/reader/tab_vocab.svg": {
-      "icon": "glyphs-poly:book-open",
-      "sha256": "e0ae4860d99ec2e901e01f2778cd4f164aa94f30b8894442f5e8d820523627f1",
-      "source_body_sha256": "00899287ce19a517e6e5819312b4769eab92b38e5ff58c0cbdfb90985e8a2fd3"
+    "Glyphs Poly/reader/coverflow.svg": {
+      "icon": "glyphs-poly:images",
+      "sha256": "75d458336fc2a9fec7602db04af10889fad0f26c786ebb68988818cc3f9bbb19",
+      "source_body_sha256": "b0fcfb9179a3ed061b56500fa7d1967e062e003fbd915e30264f4ccc12605f05"
     },
-    "Glyphs Poly/koreader/book_open.svg": {
+    "Glyphs Poly/reader/footnote.svg": {
+      "icon": "glyphs-poly:note",
+      "sha256": "435f71137c27548db0ba3cfe4e3f14086869019a4feb47fed9af7acd22530e31",
+      "source_body_sha256": "5520c43b603a3d42de6184c9ce1fd7f739948c0b28fc5f1791f66a709b66f366"
+    },
+    "Glyphs Poly/reader/grid.svg": {
+      "icon": "glyphs-poly:grid",
+      "sha256": "5bae08b371579b1e88bc21a327e66d980b1d5418d2a59db591c0d35ac978218b",
+      "source_body_sha256": "e28dba85816af0448c594371918124fa1b3e69f8bb6a0621c0aa04132f6199c3"
+    },
+    "Glyphs Poly/reader/grid_slide.svg": {
+      "icon": "glyphs-poly:grid-list",
+      "sha256": "39c74ed375bd15f6bb2f13fa8e0c64d838ba1d9f11511035aec746b82b8514a7",
+      "source_body_sha256": "8d41b5e000f8548f4050dfff3ac5297ebbe6bc36ef9a109acd8ef292c4fd7d79"
+    },
+    "Glyphs Poly/reader/pin.svg": {
+      "icon": "glyphs-poly:pin",
+      "sha256": "1f2dc0688e2c4ff311df2e0312ff683ebc50914407af76102a6dd3e513f162d5",
+      "source_body_sha256": "137edf950e53d97040cb821ddab8edc896d66440926525a6714de4f936979ce5"
+    },
+    "Glyphs Poly/reader/return.svg": {
+      "icon": "glyphs-poly:arrow-turn",
+      "sha256": "79d1677b9f90860fb6eb8de6fe312f309507b057b8222878b8c6fc64c1d5cee1",
+      "source_body_sha256": "77543e6e47050409b087b0e22ef41b75c5cfc346f1352e7b5c9d32a24ac817b8",
+      "transform": "rotate(-90 40 40)"
+    },
+    "Glyphs Poly/reader/return_old.svg": {
+      "icon": "glyphs-poly:arrow-turn",
+      "sha256": "79d1677b9f90860fb6eb8de6fe312f309507b057b8222878b8c6fc64c1d5cee1",
+      "source_body_sha256": "77543e6e47050409b087b0e22ef41b75c5cfc346f1352e7b5c9d32a24ac817b8",
+      "transform": "rotate(-90 40 40)"
+    },
+    "Glyphs Poly/reader/tab_vocab.svg": {
       "icon": "glyphs-poly:book-open",
       "sha256": "e0ae4860d99ec2e901e01f2778cd4f164aa94f30b8894442f5e8d820523627f1",
       "source_body_sha256": "00899287ce19a517e6e5819312b4769eab92b38e5ff58c0cbdfb90985e8a2fd3"
@@ -1054,6 +1076,399 @@
       "icon": "glyphs-poly:bars",
       "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
       "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
+    },
+    "Glyphs Poly/settings/settings_archive_outline.svg": {
+      "icon": "glyphs-poly:archive",
+      "sha256": "11c6e6aedfdc28674e3773e8415e9258675fb26f5991eecefd9dea10d2eefbf7",
+      "source_body_sha256": "1c6e8b0b374e3fbcbaa54a6f08d009d27da05b9256614829f2cc0830c9c3867c"
+    },
+    "Glyphs Poly/settings/settings_arrow_up_circle_outline.svg": {
+      "icon": "glyphs-poly:arrow-line-start",
+      "sha256": "5a8f6ee1c25a276c218c6f6e677bba52b363f919d418f4b54f3ee7b4a51d39fe",
+      "source_body_sha256": "a2fd148f09d4017c436dddbd205c414dedb14a0aebe9c85a6abca2782da77941"
+    },
+    "Glyphs Poly/settings/settings_backup_restore.svg": {
+      "icon": "glyphs-poly:save",
+      "sha256": "537d0001212631ecd76ce5af6909c0e83b6c377cb24a4a9baf06e694cda8340d",
+      "source_body_sha256": "5cf5cffda1c3a5a6bcf930d0d23ac4d05665b82fdbe1545f1422c4205ff9ae79"
+    },
+    "Glyphs Poly/settings/settings_battery_70.svg": {
+      "icon": "glyphs-poly:battery-50",
+      "sha256": "5d80120307b0284d861d71f2c416db3b9afaa24682aaeee0666f73e91636cce6",
+      "source_body_sha256": "eb855c08379b8d505c9f29d881bbe140a4386966570e2b89cca9410aee3ef92b"
+    },
+    "Glyphs Poly/settings/settings_blur.svg": {
+      "icon": "glyphs-poly:droplet",
+      "sha256": "209c25b5ae975e1de0a18951237072812c95ef9acb20db9b6d27b8ba4e1cc5ea",
+      "source_body_sha256": "8dd03d9e5636bc97249749485f4e77aa5a28690980c6f6b7712de7d035e221fd"
+    },
+    "Glyphs Poly/settings/settings_book_check.svg": {
+      "icon": "glyphs-poly:book",
+      "sha256": "9a227b863f1aaff8888132dbc6eb4730bd35ce6c59255c4a0f4a57946fdda4be",
+      "source_body_sha256": "e2aab1de0d571cd138753362d37b75ba0eec771776e9f1b901db1091d318cd44"
+    },
+    "Glyphs Poly/settings/settings_book_cog_outline.svg": {
+      "icon": "glyphs-poly:book-atlas",
+      "sha256": "25ed36ff1dede188beb6a98bf92a21f47b4c9b52c219d76b4464afaea6c772c7",
+      "source_body_sha256": "f505bdda7ca25396eb0007f8c89a6bbbc57752c194293cf52edec86f09d7585c"
+    },
+    "Glyphs Poly/settings/settings_book_multiple_outline.svg": {
+      "icon": "glyphs-poly:books",
+      "sha256": "7499c6c3493a747a6e5e1387e6cad2319ff8acb6176f325408e7f78deba1cbf1",
+      "source_body_sha256": "6efacfe44fe087f5147f6e8b2132607943cd21328c1949f2e7f18d0f40a2c7d9",
+      "transforms": [
+        "rotate:-90"
+      ]
+    },
+    "Glyphs Poly/settings/settings_book_open_variant.svg": {
+      "icon": "glyphs-poly:book-open",
+      "sha256": "e0ae4860d99ec2e901e01f2778cd4f164aa94f30b8894442f5e8d820523627f1",
+      "source_body_sha256": "00899287ce19a517e6e5819312b4769eab92b38e5ff58c0cbdfb90985e8a2fd3"
+    },
+    "Glyphs Poly/settings/settings_bookshelf.svg": {
+      "icon": "glyphs-poly:books",
+      "sha256": "0ecbbd7348a711609b58c06f1913acab9ab3a07ba45ef17071ab2f5c9c259094",
+      "source_body_sha256": "6efacfe44fe087f5147f6e8b2132607943cd21328c1949f2e7f18d0f40a2c7d9"
+    },
+    "Glyphs Poly/settings/settings_brush.svg": {
+      "icon": "glyphs-poly:paint-brush",
+      "sha256": "4bbef5f0b69a872ecee9073e0fe98227b7e19b55dc106d5b1d9faff203af6812",
+      "source_body_sha256": "96df9623a59ee70d4d6baebb201c7cd75f01a466151656c63a9b1ef70839787d"
+    },
+    "Glyphs Poly/settings/settings_calendar_month_outline.svg": {
+      "icon": "glyphs-poly:calendar",
+      "sha256": "42d11ee8503a214aa5c568b3e82cd37e618befe030158c8d7817aac804d77729",
+      "source_body_sha256": "963bb810cd5739283a759c7c00958e448547a455ecfad952418f847622984db5"
+    },
+    "Glyphs Poly/settings/settings_chart_line.svg": {
+      "icon": "glyphs-poly:chart-bar",
+      "sha256": "60ba36e1b30c7483ee09ee7dc82f2dde0eee5f3bf42d5941587df2d2dc962f98",
+      "source_body_sha256": "15f8a48021714ac9e9330cb77aff498ed752396ffaa4659967a18b8fd03206c5"
+    },
+    "Glyphs Poly/settings/settings_clipboard_play_outline.svg": {
+      "icon": "glyphs-poly:clipboard",
+      "sha256": "8c73ae8a0667ebf8a89ad745992e6a8fea5fbe693b9af9922bee4e822cf2a983",
+      "source_body_sha256": "5f596c9849f1b746c715fd93c3d1c66f9818a66edcfbc17827e7257131dce746"
+    },
+    "Glyphs Poly/settings/settings_clock_outline.svg": {
+      "icon": "glyphs-poly:clock",
+      "sha256": "e4c0f9e3b49bb0359a88a7856445a1641e2578d5e9ddd49e59aee492865adbae",
+      "source_body_sha256": "65abaebe774328d81cc951a48131b8bac4082bfa326b2d2ba826384867f90925"
+    },
+    "Glyphs Poly/settings/settings_cloud_download_outline.svg": {
+      "icon": "glyphs-poly:books",
+      "sha256": "0ecbbd7348a711609b58c06f1913acab9ab3a07ba45ef17071ab2f5c9c259094",
+      "source_body_sha256": "6efacfe44fe087f5147f6e8b2132607943cd21328c1949f2e7f18d0f40a2c7d9"
+    },
+    "Glyphs Poly/settings/settings_cog.svg": {
+      "icon": "glyphs-poly:cog",
+      "sha256": "299a8517ac4e26e4f9c86ca5af8069900cab0a0d5b02b462041b8a6945ed899f",
+      "source_body_sha256": "632a5fa0fdc449ae5e5588c4feaf532ef549a03612474acb47abe0e5c45be1dc"
+    },
+    "Glyphs Poly/settings/settings_content_save.svg": {
+      "icon": "glyphs-poly:save",
+      "sha256": "537d0001212631ecd76ce5af6909c0e83b6c377cb24a4a9baf06e694cda8340d",
+      "source_body_sha256": "5cf5cffda1c3a5a6bcf930d0d23ac4d05665b82fdbe1545f1422c4205ff9ae79"
+    },
+    "Glyphs Poly/settings/settings_cursor_move.svg": {
+      "icon": "glyphs-poly:arrows-cross",
+      "sha256": "a1b144ad585d0706db0f3c0075ef7fa6c8ea5fef3e2fd56fe78753a1c9aede42",
+      "source_body_sha256": "299420ffbf6366340f925db2e993047a99b9c4e32f6fe90d3ed4b29f0c0ef9c9"
+    },
+    "Glyphs Poly/settings/settings_delete_outline.svg": {
+      "icon": "glyphs-poly:trash",
+      "sha256": "14f64c52038878749a2cd1df7eb5938f7d4ab835502b4b22e105957ce34513d0",
+      "source_body_sha256": "e803c13735eed6edb46993719502e14688e30ae99dd51981aa4f2a86b5f829b2"
+    },
+    "Glyphs Poly/settings/settings_division.svg": {
+      "icon": "glyphs-poly:page-break",
+      "sha256": "338dd4858739c560d9c165386aeba347a7fa310ce8c946cde2d700f3ff733050",
+      "source_body_sha256": "3f3f6a695113b4aca1045ad99f53453e0a61e7b1ba1270a3e50c08e8542ccb98"
+    },
+    "Glyphs Poly/settings/settings_dock_bottom.svg": {
+      "icon": "glyphs-poly:layout-2",
+      "sha256": "6e1ee7dca1549d07c5f9802526a6986539264ff1c1c0a29e3e84b58d70244551",
+      "source_body_sha256": "e3651696396353f6fcfb1e3bfeb2f8b7ac8ce288047653450d37beab50cb7379"
+    },
+    "Glyphs Poly/settings/settings_dots_grid.svg": {
+      "icon": "glyphs-poly:grid",
+      "sha256": "5bae08b371579b1e88bc21a327e66d980b1d5418d2a59db591c0d35ac978218b",
+      "source_body_sha256": "e28dba85816af0448c594371918124fa1b3e69f8bb6a0621c0aa04132f6199c3"
+    },
+    "Glyphs Poly/settings/settings_drag_horizontal_variant.svg": {
+      "icon": "glyphs-poly:bars-offset",
+      "sha256": "d3c3a0d42f779bdb2476f5326a9f999f4c99fa3b231a2a4b4881785eee465c0a",
+      "source_body_sha256": "d4833676ecf3e33589605abb83abf4d25449a5221676035123b23303ab4c9ca7"
+    },
+    "Glyphs Poly/settings/settings_draw_pen.svg": {
+      "icon": "glyphs-poly:pen",
+      "sha256": "9215715646fb1637bf366987327b3a25fc388232e2934d1b3a832d1cda6f3263",
+      "source_body_sha256": "5d17b61e34a3fe378bf7bfd9fe6e6fa0b1f445e161535b8104e036c974a951cf"
+    },
+    "Glyphs Poly/settings/settings_eye_off.svg": {
+      "icon": "glyphs-poly:eye-slash",
+      "sha256": "7acc654d4417e7a56d15b22b04d9e851c6951deb1af0e43bf9209affe08cac24",
+      "source_body_sha256": "6ae6c5e65ea82586e3a39b1fa0ac33c209f1a213913eda5150611d6f01af8fad"
+    },
+    "Glyphs Poly/settings/settings_file_tree.svg": {
+      "icon": "glyphs-poly:layer-group",
+      "sha256": "97cda32817c99c8c92ddb636f4d3705b68c1a02de12beec3d56b5871898dce21",
+      "source_body_sha256": "56f40db4a06fc219f33875913bae0fd90486eaabe4144d46eaf990bae0ea9d27"
+    },
+    "Glyphs Poly/settings/settings_flash.svg": {
+      "icon": "glyphs-poly:bolt",
+      "sha256": "2c2d47d4bfcaeaad3bffe1c36e54b71df788e31bff9201ede1c54151b171df4b",
+      "source_body_sha256": "c24bf01277638e81be8221a3ebae5e43db29a76626169074c8f4c5fc8175afcd"
+    },
+    "Glyphs Poly/settings/settings_folder_home_outline.svg": {
+      "icon": "glyphs-poly:folder-1",
+      "sha256": "c648cab17921988481164106af0e6e846c85fbb9a7fa79708922826bc60a954c",
+      "source_body_sha256": "c11630fd4b50f1ab7dcbb3c3d14841336a8f81a9b4fe0118c314e577af82d24f"
+    },
+    "Glyphs Poly/settings/settings_folder_open_outline.svg": {
+      "icon": "glyphs-poly:folder-open",
+      "sha256": "105b324fc47fe1c46963166aca3acf28e8554aa7438015152cb9feb14c7c603e",
+      "source_body_sha256": "8243c2b7f1d6f8dd36aad7cc3ac27177944476981114a13fb40c064f5628c5ab"
+    },
+    "Glyphs Poly/settings/settings_folder_outline.svg": {
+      "icon": "glyphs-poly:folder",
+      "sha256": "1c7d9c32a737ef236b9257edb7aad1de60cd5b7322225c44ef0ea90a63c0f24f",
+      "source_body_sha256": "11fba9ed5f2a6a093c9d5a566103c9482b157fb89f487ffcb4d8640f5a2b3e86"
+    },
+    "Glyphs Poly/settings/settings_folder_plus_outline.svg": {
+      "icon": "glyphs-poly:grid-add",
+      "sha256": "6786a8ff7a346af0803742751cd1b8118b744c6a4929709bb4fd9060174dce51",
+      "source_body_sha256": "5526fcc8b4e8374bdee1dfcf64ee0adefea094f00ed691a124fd5cdc8f0f0290"
+    },
+    "Glyphs Poly/settings/settings_format_horizontal_align_center.svg": {
+      "icon": "glyphs-poly:align-center",
+      "sha256": "b850330fa9352bbdbdd7915821eed813da02b0fd377e474889b09cb2497ad9fd",
+      "source_body_sha256": "543f029c90d53f42195fddde7179b3205930ecfd005bf6233e6acbd70ae673c8"
+    },
+    "Glyphs Poly/settings/settings_format_underline.svg": {
+      "icon": "glyphs-poly:underline",
+      "sha256": "19ceb1b32dfdfc710de29579f0be01201bc075296b4b966be59b81a07cdde25f",
+      "source_body_sha256": "e07482337328ee329036ea20b0be7d079a36309872bbecaaf9d4938a2e5f1548"
+    },
+    "Glyphs Poly/settings/settings_gesture_double_tap.svg": {
+      "icon": "glyphs-poly:hand-index",
+      "sha256": "47155345e7638e374e22484941f0a9ccf16d902f76ffcc00a0430fc086423b3e",
+      "source_body_sha256": "ed6ee4f5cbaca92e3e6924721959a1ac3979e509ffc0011e0fe2b1cbc1fe7c63"
+    },
+    "Glyphs Poly/settings/settings_gesture_swipe_down.svg": {
+      "icon": "glyphs-poly:view-collapse",
+      "sha256": "fe44cdafd0ac0633e4abc36398ae68d15be47186c986e9546bc811cda1aa4377",
+      "source_body_sha256": "d99a123bb294d49608d463265092bf38882beef52d21e5af30137c25d9d686f8"
+    },
+    "Glyphs Poly/settings/settings_gesture_swipe_up.svg": {
+      "icon": "glyphs-poly:view-expand",
+      "sha256": "f3f3ceb5f2e20e79d6b5260793ee84c6ae790be5cdfec6ed6f93f875997c8000",
+      "source_body_sha256": "62bbb569bc29e1a864cb449ff5bc9bb01df497716d33ed53f6bb14950f6252e8"
+    },
+    "Glyphs Poly/settings/settings_grid_large.svg": {
+      "icon": "glyphs-poly:grid",
+      "sha256": "5bae08b371579b1e88bc21a327e66d980b1d5418d2a59db591c0d35ac978218b",
+      "source_body_sha256": "e28dba85816af0448c594371918124fa1b3e69f8bb6a0621c0aa04132f6199c3"
+    },
+    "Glyphs Poly/settings/settings_harddisk.svg": {
+      "icon": "glyphs-poly:hard-drive",
+      "sha256": "e7c9872d85ad982ebb58e53cc9a9a59f48e6d9c702925d308f9e2c95048a6ef0",
+      "source_body_sha256": "359bc319f225d4b821e6e441cdd6b06471fdd03724721e25941536d479d39b16"
+    },
+    "Glyphs Poly/settings/settings_home_variant.svg": {
+      "icon": "glyphs-poly:house",
+      "sha256": "bdb7ce08e523e01489890ac1e1cbbee760e23e454c578c1fb6925d9e38a82890",
+      "source_body_sha256": "0fb835d319066b293a3d513942659345f8f63f49f9134e2be0820d428bfed02b"
+    },
+    "Glyphs Poly/settings/settings_image_filter_hdr.svg": {
+      "icon": "glyphs-poly:image",
+      "sha256": "c976e6c2dad772d5f9eb049be44b5d5a916aeeceab73d94be349e0701388c6ae",
+      "source_body_sha256": "96fa529f4cf076989291cb08f9a21cd0500621eb3c95aa4bcca9005a2923a776"
+    },
+    "Glyphs Poly/settings/settings_image_multiple_outline.svg": {
+      "icon": "glyphs-poly:grid",
+      "sha256": "5bae08b371579b1e88bc21a327e66d980b1d5418d2a59db591c0d35ac978218b",
+      "source_body_sha256": "e28dba85816af0448c594371918124fa1b3e69f8bb6a0621c0aa04132f6199c3"
+    },
+    "Glyphs Poly/settings/settings_keyboard.svg": {
+      "icon": "glyphs-poly:keyboard",
+      "sha256": "aa62522f95f276668d5dc32c4507e52c5093fdd32768e00cdeef7ce4e6ffa80c",
+      "source_body_sha256": "34b346255b6bedfbde1da050bfd430f740155163e530d314e712a1e1b06f0a7c"
+    },
+    "Glyphs Poly/settings/settings_lightning_bolt.svg": {
+      "icon": "glyphs-poly:bolt",
+      "sha256": "2c2d47d4bfcaeaad3bffe1c36e54b71df788e31bff9201ede1c54151b171df4b",
+      "source_body_sha256": "c24bf01277638e81be8221a3ebae5e43db29a76626169074c8f4c5fc8175afcd"
+    },
+    "Glyphs Poly/settings/settings_lock.svg": {
+      "icon": "glyphs-poly:lock",
+      "sha256": "a16af1ae06d560fc23c912f77729acd9c2f5f1ad3818d36af3b2cbcc753f6174",
+      "source_body_sha256": "f690ce8fef430228fb9e0e7c806d92bf9df51a10a9f55f2a361d83b6e46452a1"
+    },
+    "Glyphs Poly/settings/settings_magnify.svg": {
+      "icon": "glyphs-poly:search",
+      "sha256": "98d43ede346bb31120d4e4e71a16e1e7cc108c5b178e05b26bcc0f637d8c46fa",
+      "source_body_sha256": "e703f75791d0ca19c31c1db4d4b5d8d0508a3ac7777984c7e441f0930632facc"
+    },
+    "Glyphs Poly/settings/settings_memory.svg": {
+      "icon": "glyphs-poly:sd-card",
+      "sha256": "42b47c15bcb5a6c45129ca44896050fb4ceef325ed58f4cc228039199c405bed",
+      "source_body_sha256": "517e351762591d22b8f397a2eef98dec2b4da6004a1b58a0d71e1d4dac05ba99"
+    },
+    "Glyphs Poly/settings/settings_menu.svg": {
+      "icon": "glyphs-poly:bars",
+      "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
+      "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
+    },
+    "Glyphs Poly/settings/settings_palette.svg": {
+      "icon": "glyphs-poly:palette",
+      "sha256": "c788203b8cbb474a5d135bb110b5eeb0b647d6adffee0e21b1cbb9122a02267e",
+      "source_body_sha256": "b3028eba28ca388832518f76941d652fc104bc257f916c01f5b5bdf2dbc38cc7"
+    },
+    "Glyphs Poly/settings/settings_pan_horizontal.svg": {
+      "icon": "glyphs-poly:arrows-exchange",
+      "sha256": "eae7291bbb7c033bb60c07cb649743c59ce4a3d84dc30c176a737564a7da5572",
+      "source_body_sha256": "a061c858c7cdcb110604b94490604529e79abfc13372d68c0965de8707b00edb"
+    },
+    "Glyphs Poly/settings/settings_play.svg": {
+      "icon": "glyphs-poly:check",
+      "sha256": "8412762428784964d8fd889c1c3e1cb8b4a254473fe3bb179d573696aaafd445",
+      "source_body_sha256": "f64f081d8e35d8a8c9aeafcefc298f22389628773ec83050a9da6c1c257d4685"
+    },
+    "Glyphs Poly/settings/settings_power_plug.svg": {
+      "icon": "glyphs-poly:puzzle-piece",
+      "sha256": "f15257189dc927bf7652456dacf7481d96519818ee0080e37a51b857ca4267d0",
+      "source_body_sha256": "531d53baae0ebf4e6424cbe8c8634a648f1a7a2c5615f093913e73866e79ea0c"
+    },
+    "Glyphs Poly/settings/settings_receipt_outline.svg": {
+      "icon": "glyphs-poly:tablet",
+      "sha256": "eabfa63b779b7e39cd27176266902cc602548288f401fecaf8f57f47a991a367",
+      "source_body_sha256": "df25a21726b1c2d9dc783856dd41865b34c5784276acdd4bdbecc062f953b62c"
+    },
+    "Glyphs Poly/settings/settings_reflect_horizontal.svg": {
+      "icon": "glyphs-poly:flip",
+      "sha256": "5dd9ed2803b20e9454a041d2ce0f690eb0d0c5989f34aa57d3c3a5bfbfae9ee3",
+      "source_body_sha256": "f44b301b9c95f0f56a2cb943fa6ee2e54bf746a490af87a1bf17aca3034f080d"
+    },
+    "Glyphs Poly/settings/settings_refresh.svg": {
+      "icon": "glyphs-poly:replay",
+      "sha256": "0d5c0cab6b6844fe7bb763a0db38b5b733fadd149c6372143088a4ce1f749bfb",
+      "source_body_sha256": "08efa9324cec1c4576579172fb0118c57a99c31bdc6d0d06d95a522dd4adee17"
+    },
+    "Glyphs Poly/settings/settings_restart.svg": {
+      "icon": "glyphs-poly:replay",
+      "sha256": "0d5c0cab6b6844fe7bb763a0db38b5b733fadd149c6372143088a4ce1f749bfb",
+      "source_body_sha256": "08efa9324cec1c4576579172fb0118c57a99c31bdc6d0d06d95a522dd4adee17"
+    },
+    "Glyphs Poly/settings/settings_sleep.svg": {
+      "icon": "glyphs-poly:snooze",
+      "sha256": "09f507e85e7c2401d853c8520690d2023a56238b148c226c4cabab613792ed00",
+      "source_body_sha256": "d6af925b3e9f0464fb39cc6665face1f65ea6f726e643faf1b392c019ac3bd0e"
+    },
+    "Glyphs Poly/settings/settings_sort_alphabetical_variant.svg": {
+      "icon": "glyphs-poly:sort-alpha-down",
+      "sha256": "3c28c065c2a686eed47b30c6aeab448dbab083ac12a5b97e73f51d2d9dc0463f",
+      "source_body_sha256": "9c672f936a89a912cb11a01d5e4e4a3390b56b8e1fe86055855476c956441f25"
+    },
+    "Glyphs Poly/settings/settings_sort_variant.svg": {
+      "icon": "glyphs-poly:sort",
+      "sha256": "db8bcdf3de4e500d09f3fd195253485e268852fa1cf2b170d0cd9964e575bd38",
+      "source_body_sha256": "642892e505a8c08c50a66d4605848f3e0e9f2bb35a1796aac24357c78797211b"
+    },
+    "Glyphs Poly/settings/settings_square_edit_outline.svg": {
+      "icon": "glyphs-poly:edit",
+      "sha256": "93f0d640e1873ff95ba9a1007934025bb5531e7308e1e17f03f92420e5a720bb",
+      "source_body_sha256": "930473a3d5228eb169cbbadaf23ded26f4e652eebdfe63b777d1ccfbc7854c43"
+    },
+    "Glyphs Poly/settings/settings_star.svg": {
+      "icon": "glyphs-poly:star",
+      "sha256": "fd10b40fd66003d03ff9565b09ca9bf59fe42bded0f302a377978d1b5125bc39",
+      "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b"
+    },
+    "Glyphs Poly/settings/settings_table_row.svg": {
+      "icon": "glyphs-poly:columns-3",
+      "sha256": "ee0050283a1d8ca6262717556b8ed95633cd991675d83623072e7617e5a4c58c",
+      "source_body_sha256": "338054ad984b7353999d0451bc1d10848cda5786480a687ac1233cb4c7f03432"
+    },
+    "Glyphs Poly/settings/settings_tag.svg": {
+      "icon": "glyphs-poly:tag",
+      "sha256": "f3f8aa2253e4fe79ebcb3ae9e5b1dc491a82b6ae1318db1d05d27eab5066a523",
+      "source_body_sha256": "55900634ec4a821ad983e0ad9289f5b07379b744fb1b27aa548678c60055ac60"
+    },
+    "Glyphs Poly/settings/settings_tag_multiple_outline.svg": {
+      "icon": "glyphs-poly:tags",
+      "sha256": "e86caf67a825cc833ddc77c4396e52afcfabb5d41f84d7adf0d52954f9fa68a7",
+      "source_body_sha256": "aacb202d5b7793d9b5911d1cfb24ae4ebea83d3b89cb2c954a2032e1f5313fbd"
+    },
+    "Glyphs Poly/settings/settings_tag_outline.svg": {
+      "icon": "glyphs-poly:font",
+      "sha256": "19dc386c769dd5deeb8ee503abd902e131ec0305b6c5e9ce86578935220253c7",
+      "source_body_sha256": "a516979d57efdb7b2ec5bb1253fe675ae54302480be732dcae39fff7b51b7177"
+    },
+    "Glyphs Poly/settings/settings_thermometer_lines.svg": {
+      "icon": "glyphs-poly:temperature-hot",
+      "sha256": "1c79afe8cb4fe301e73166294a271f2125f8b7676e4c2d8abe69e1cbdd8bbbbc",
+      "source_body_sha256": "2096d94302ec84a5f0a59bae2ee8dfee819663f645e2bcb3deae9cc49e9d9b35"
+    },
+    "Glyphs Poly/settings/settings_toggle_switch.svg": {
+      "icon": "glyphs-poly:sliders",
+      "sha256": "5e7bf2d4eadb5d32a1a99c5f8e136dc28d5413b77db20457e9ed92662504c8dc",
+      "source_body_sha256": "9b0acdc59c684e4ebdf078f875ce46afcdd6607906907889f4d47b9ce1322194"
+    },
+    "Glyphs Poly/settings/settings_tools.svg": {
+      "icon": "glyphs-poly:sliders",
+      "sha256": "5e7bf2d4eadb5d32a1a99c5f8e136dc28d5413b77db20457e9ed92662504c8dc",
+      "source_body_sha256": "9b0acdc59c684e4ebdf078f875ce46afcdd6607906907889f4d47b9ce1322194"
+    },
+    "Glyphs Poly/settings/settings_translate.svg": {
+      "icon": "glyphs-poly:globe",
+      "sha256": "be3cfce321c0d06ef71faab5704a1f9a06ccafc68ffc23eb91d1855fed16c3bf",
+      "source_body_sha256": "2e029e8cdb06821e56ad31e1ef06d7179d79d34a4ba8b9b8146dc8324ffdc9a5"
+    },
+    "Glyphs Poly/settings/settings_view_grid_outline.svg": {
+      "icon": "glyphs-poly:grid",
+      "sha256": "5bae08b371579b1e88bc21a327e66d980b1d5418d2a59db591c0d35ac978218b",
+      "source_body_sha256": "e28dba85816af0448c594371918124fa1b3e69f8bb6a0621c0aa04132f6199c3"
+    },
+    "Glyphs Poly/settings/settings_view_list_outline.svg": {
+      "icon": "glyphs-poly:bars",
+      "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
+      "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
+    },
+    "Glyphs Poly/settings/settings_view_quilt.svg": {
+      "icon": "glyphs-poly:globe",
+      "sha256": "be3cfce321c0d06ef71faab5704a1f9a06ccafc68ffc23eb91d1855fed16c3bf",
+      "source_body_sha256": "2e029e8cdb06821e56ad31e1ef06d7179d79d34a4ba8b9b8146dc8324ffdc9a5"
+    },
+    "Glyphs Poly/settings/settings_wallpaper.svg": {
+      "icon": "glyphs-poly:image",
+      "sha256": "c976e6c2dad772d5f9eb049be44b5d5a916aeeceab73d94be349e0701388c6ae",
+      "source_body_sha256": "96fa529f4cf076989291cb08f9a21cd0500621eb3c95aa4bcca9005a2923a776"
+    },
+    "Glyphs Poly/settings/settings_weather_night.svg": {
+      "icon": "glyphs-poly:moon",
+      "sha256": "089deccaad5338febe06be3ef8cf063b5b16dd2748dd8c89dd9111a788c4a8f5",
+      "source_body_sha256": "a84faafd716a6ff75a9173cf67ed001923eeb41f22eea8998e5408a4cc1b7e65"
+    },
+    "Glyphs Poly/settings/settings_weather_sunny.svg": {
+      "icon": "glyphs-poly:sun",
+      "sha256": "02858ffdb4e54334b3848bc8006ec2fa24f1f87d3ccfef4a6282a99771642fa1",
+      "source_body_sha256": "18f028e7150bb066731b9f7a0bf5139b6c8b3c166890a743f81c2b0fcd6c96e2"
+    },
+    "Glyphs Poly/settings/settings_widgets.svg": {
+      "icon": "glyphs-poly:puzzle-piece",
+      "sha256": "4961dbd6e071234473bb87996be4a436c2badc2b8083c81f88f7018d2cb6728a",
+      "source_body_sha256": "531d53baae0ebf4e6424cbe8c8634a648f1a7a2c5615f093913e73866e79ea0c"
+    },
+    "Glyphs Poly/settings/settings_wifi.svg": {
+      "icon": "glyphs-poly:wifi",
+      "sha256": "2adb339a9f0cc414637ec3e830c06c1cd964c81f21226cdde6bbaf4ac8dacb44",
+      "source_body_sha256": "6d260fed308400c1a74ea4a45113c33dd5fb9b5513139e4e4a83946ddf17eff1"
+    },
+    "Glyphs Poly/settings/view_carousel_outline.svg": {
+      "icon": "glyphs-poly:images",
+      "sha256": "75d458336fc2a9fec7602db04af10889fad0f26c786ebb68988818cc3f9bbb19",
+      "source_body_sha256": "b0fcfb9179a3ed061b56500fa7d1967e062e003fbd915e30264f4ccc12605f05"
     },
     "Glyphs Poly/zenpm/allow_updates.svg": {
       "icon": "glyphs-poly:bell",

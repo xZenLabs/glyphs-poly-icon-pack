@@ -20,7 +20,7 @@ class GlyphsIconsTest(unittest.TestCase):
         self.assertEqual(set(files), set(inventory["icons"]))
         self.assertEqual({path.parent.name for path in files.values()},
                          {"navbar", "controls", "launcher", "zenpm", "lookup",
-                          "menus", "reader", "device", "koreader"})
+                          "menus", "reader", "device", "settings", "koreader"})
         self.assertEqual(inventory["license"]["spdx"], "MIT")
         self.assertFalse(list(root.glob("Solar *")))
         supported = {"svg", "g", "path", "rect", "circle", "ellipse", "line",
@@ -46,6 +46,7 @@ class GlyphsIconsTest(unittest.TestCase):
             with zipfile.ZipFile(destination) as archive:
                 prefix = "zen-glyphs-poly/"
                 names = {Path(name).stem for name in archive.namelist() if name.endswith(".svg")}
+                self.assertTrue({"footnote", "pin", "return", "return_old"} <= names)
                 self.assertFalse(set(inventory["omitted_source_lookups"]) & names)
                 self.assertIs(json.loads(archive.read(prefix + "pack.json"))["color"], True)
                 for names in (("star.empty", "star.full", "star.white"),

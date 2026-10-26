@@ -13,7 +13,7 @@ by **Goran Spasojevic**. Created with GitHub's **Use this template** feature fro
 
 | Pack | Source SVGs | Built SVG lookups | Release asset |
 |---|---|---|---|
-| Glyphs Poly | 250 | 250 | `zen-glyphs-poly.zip` |
+| Glyphs Poly | 332 | 332 | `zen-glyphs-poly.zip` |
 
 The pack covers navigation, library tabs, quick actions, reader menus, chevrons,
 text alignment, column layouts, stars, open Wi-Fi signal levels, batteries,
@@ -35,6 +35,10 @@ ZenPM replacements require a frontend that supports the selected ZenOS icon pack
 
 The pack declares `"color": true`. Color e-ink preserves the palette; grayscale
 devices display the same artwork in grayscale.
+
+Reader controls include `pin.svg`, `footnote.svg`, `return.svg`, and the
+compatible `return_old.svg` lookup, alongside the highlight style, color,
+delete, filter, and sort icons.
 
 ## Install with ZenPM
 
@@ -77,6 +81,7 @@ Categories without replacement artwork can be absent:
 ├── menus/                    # Zen menu entry points
 ├── reader/                   # Page browser: TOC, vocabulary, view modes
 ├── device/
+├── settings/                 # Zen settings menu rows
 └── koreader/                 # Stock KOReader icons, including plus/info
 ```
 
