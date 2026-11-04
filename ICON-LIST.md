@@ -232,15 +232,28 @@ from [koreader](#koreader).
 
 | Lookup filename | Glyphs Poly |
 |---|---|
+| `annotations.svg` | [SVG](Glyphs%20Poly/reader/annotations.svg) |
+| `bookmark_outline.svg` | [SVG](Glyphs%20Poly/reader/bookmark_outline.svg) |
+| `bookmark_remove.svg` | [SVG](Glyphs%20Poly/reader/bookmark_remove.svg) |
 | `coverflow.svg` | [SVG](Glyphs%20Poly/reader/coverflow.svg) |
+| `document.svg` | [SVG](Glyphs%20Poly/reader/document.svg) |
 | `footnote.svg` | [SVG](Glyphs%20Poly/reader/footnote.svg) |
+| `fullscreen.svg` | [SVG](Glyphs%20Poly/reader/fullscreen.svg) |
+| `fullscreen_exit.svg` | [SVG](Glyphs%20Poly/reader/fullscreen_exit.svg) |
 | `grid.svg` | [SVG](Glyphs%20Poly/reader/grid.svg) |
 | `grid_slide.svg` | [SVG](Glyphs%20Poly/reader/grid_slide.svg) |
+| `history.svg` | [SVG](Glyphs%20Poly/reader/history.svg) |
+| `moon_outline.svg` | [SVG](Glyphs%20Poly/reader/moon_outline.svg) |
+| `page.svg` | [SVG](Glyphs%20Poly/reader/page.svg) |
 | `pin.svg` | [SVG](Glyphs%20Poly/reader/pin.svg) |
+| `pin_remove.svg` | [SVG](Glyphs%20Poly/reader/pin_remove.svg) |
+| `profiles.svg` | [SVG](Glyphs%20Poly/reader/profiles.svg) |
 | `return.svg` | [SVG](Glyphs%20Poly/reader/return.svg) |
 | `return_old.svg` | [SVG](Glyphs%20Poly/reader/return_old.svg) |
 | `tab_vocab.svg` | [SVG](Glyphs%20Poly/reader/tab_vocab.svg) |
 | `toc.svg` | [SVG](Glyphs%20Poly/reader/toc.svg) |
+| `zoom_in.svg` | [SVG](Glyphs%20Poly/reader/zoom_in.svg) |
+| `zoom_out.svg` | [SVG](Glyphs%20Poly/reader/zoom_out.svg) |
 
 ## device
 
@@ -273,11 +286,13 @@ ZenOS settings menu rows, mirroring ZenOS's bundled `settings_*` lookups.
 
 | Lookup filename | Glyphs Poly |
 |---|---|
+| `settings_account_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_account_outline.svg) |
 | `settings_archive_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_archive_outline.svg) |
 | `settings_arrow_up_circle_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_arrow_up_circle_outline.svg) |
 | `settings_backup_restore.svg` | [SVG](Glyphs%20Poly/settings/settings_backup_restore.svg) |
 | `settings_battery_70.svg` | [SVG](Glyphs%20Poly/settings/settings_battery_70.svg) |
 | `settings_blur.svg` | [SVG](Glyphs%20Poly/settings/settings_blur.svg) |
+| `settings_book.svg` | [SVG](Glyphs%20Poly/settings/settings_book.svg) |
 | `settings_book_check.svg` | [SVG](Glyphs%20Poly/settings/settings_book_check.svg) |
 | `settings_book_cog_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_book_cog_outline.svg) |
 | `settings_book_multiple_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_book_multiple_outline.svg) |
@@ -286,19 +301,27 @@ ZenOS settings menu rows, mirroring ZenOS's bundled `settings_*` lookups.
 | `settings_brush.svg` | [SVG](Glyphs%20Poly/settings/settings_brush.svg) |
 | `settings_calendar_month_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_calendar_month_outline.svg) |
 | `settings_chart_line.svg` | [SVG](Glyphs%20Poly/settings/settings_chart_line.svg) |
+| `settings_check.svg` | [SVG](Glyphs%20Poly/settings/settings_check.svg) |
 | `settings_clipboard_play_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_clipboard_play_outline.svg) |
 | `settings_clock_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_clock_outline.svg) |
 | `settings_cloud_download_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_cloud_download_outline.svg) |
 | `settings_cog.svg` | [SVG](Glyphs%20Poly/settings/settings_cog.svg) |
+| `settings_content_copy.svg` | [SVG](Glyphs%20Poly/settings/settings_content_copy.svg) |
+| `settings_content_cut.svg` | [SVG](Glyphs%20Poly/settings/settings_content_cut.svg) |
+| `settings_content_paste.svg` | [SVG](Glyphs%20Poly/settings/settings_content_paste.svg) |
 | `settings_content_save.svg` | [SVG](Glyphs%20Poly/settings/settings_content_save.svg) |
 | `settings_cursor_move.svg` | [SVG](Glyphs%20Poly/settings/settings_cursor_move.svg) |
 | `settings_delete_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_delete_outline.svg) |
 | `settings_division.svg` | [SVG](Glyphs%20Poly/settings/settings_division.svg) |
 | `settings_dock_bottom.svg` | [SVG](Glyphs%20Poly/settings/settings_dock_bottom.svg) |
 | `settings_dots_grid.svg` | [SVG](Glyphs%20Poly/settings/settings_dots_grid.svg) |
+| `settings_dots_horizontal.svg` | [SVG](Glyphs%20Poly/settings/settings_dots_horizontal.svg) |
+| `settings_download.svg` | [SVG](Glyphs%20Poly/settings/settings_download.svg) |
 | `settings_drag_horizontal_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_drag_horizontal_variant.svg) |
 | `settings_draw_pen.svg` | [SVG](Glyphs%20Poly/settings/settings_draw_pen.svg) |
 | `settings_eye_off.svg` | [SVG](Glyphs%20Poly/settings/settings_eye_off.svg) |
+| `settings_eye_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_eye_outline.svg) |
+| `settings_file_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_file_outline.svg) |
 | `settings_file_tree.svg` | [SVG](Glyphs%20Poly/settings/settings_file_tree.svg) |
 | `settings_flash.svg` | [SVG](Glyphs%20Poly/settings/settings_flash.svg) |
 | `settings_folder_home_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_folder_home_outline.svg) |
@@ -306,12 +329,14 @@ ZenOS settings menu rows, mirroring ZenOS's bundled `settings_*` lookups.
 | `settings_folder_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_folder_outline.svg) |
 | `settings_folder_plus_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_folder_plus_outline.svg) |
 | `settings_format_horizontal_align_center.svg` | [SVG](Glyphs%20Poly/settings/settings_format_horizontal_align_center.svg) |
+| `settings_format_list_bulleted.svg` | [SVG](Glyphs%20Poly/settings/settings_format_list_bulleted.svg) |
 | `settings_format_underline.svg` | [SVG](Glyphs%20Poly/settings/settings_format_underline.svg) |
 | `settings_gesture_double_tap.svg` | [SVG](Glyphs%20Poly/settings/settings_gesture_double_tap.svg) |
 | `settings_gesture_swipe_down.svg` | [SVG](Glyphs%20Poly/settings/settings_gesture_swipe_down.svg) |
 | `settings_gesture_swipe_up.svg` | [SVG](Glyphs%20Poly/settings/settings_gesture_swipe_up.svg) |
 | `settings_grid_large.svg` | [SVG](Glyphs%20Poly/settings/settings_grid_large.svg) |
 | `settings_harddisk.svg` | [SVG](Glyphs%20Poly/settings/settings_harddisk.svg) |
+| `settings_history.svg` | [SVG](Glyphs%20Poly/settings/settings_history.svg) |
 | `settings_home_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_home_variant.svg) |
 | `settings_image_filter_hdr.svg` | [SVG](Glyphs%20Poly/settings/settings_image_filter_hdr.svg) |
 | `settings_image_multiple_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_image_multiple_outline.svg) |
@@ -321,19 +346,28 @@ ZenOS settings menu rows, mirroring ZenOS's bundled `settings_*` lookups.
 | `settings_magnify.svg` | [SVG](Glyphs%20Poly/settings/settings_magnify.svg) |
 | `settings_memory.svg` | [SVG](Glyphs%20Poly/settings/settings_memory.svg) |
 | `settings_menu.svg` | [SVG](Glyphs%20Poly/settings/settings_menu.svg) |
+| `settings_note_plus_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_note_plus_outline.svg) |
 | `settings_palette.svg` | [SVG](Glyphs%20Poly/settings/settings_palette.svg) |
 | `settings_pan_horizontal.svg` | [SVG](Glyphs%20Poly/settings/settings_pan_horizontal.svg) |
+| `settings_pause.svg` | [SVG](Glyphs%20Poly/settings/settings_pause.svg) |
+| `settings_pencil_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_pencil_outline.svg) |
 | `settings_play.svg` | [SVG](Glyphs%20Poly/settings/settings_play.svg) |
 | `settings_power_plug.svg` | [SVG](Glyphs%20Poly/settings/settings_power_plug.svg) |
 | `settings_receipt_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_receipt_outline.svg) |
 | `settings_reflect_horizontal.svg` | [SVG](Glyphs%20Poly/settings/settings_reflect_horizontal.svg) |
 | `settings_refresh.svg` | [SVG](Glyphs%20Poly/settings/settings_refresh.svg) |
 | `settings_restart.svg` | [SVG](Glyphs%20Poly/settings/settings_restart.svg) |
+| `settings_restore.svg` | [SVG](Glyphs%20Poly/settings/settings_restore.svg) |
+| `settings_selection.svg` | [SVG](Glyphs%20Poly/settings/settings_selection.svg) |
 | `settings_sleep.svg` | [SVG](Glyphs%20Poly/settings/settings_sleep.svg) |
+| `settings_sort_alphabetical_ascending.svg` | [SVG](Glyphs%20Poly/settings/settings_sort_alphabetical_ascending.svg) |
+| `settings_sort_alphabetical_descending.svg` | [SVG](Glyphs%20Poly/settings/settings_sort_alphabetical_descending.svg) |
 | `settings_sort_alphabetical_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_sort_alphabetical_variant.svg) |
 | `settings_sort_variant.svg` | [SVG](Glyphs%20Poly/settings/settings_sort_variant.svg) |
 | `settings_square_edit_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_square_edit_outline.svg) |
 | `settings_star.svg` | [SVG](Glyphs%20Poly/settings/settings_star.svg) |
+| `settings_star_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_star_outline.svg) |
+| `settings_sync.svg` | [SVG](Glyphs%20Poly/settings/settings_sync.svg) |
 | `settings_table_row.svg` | [SVG](Glyphs%20Poly/settings/settings_table_row.svg) |
 | `settings_tag.svg` | [SVG](Glyphs%20Poly/settings/settings_tag.svg) |
 | `settings_tag_multiple_outline.svg` | [SVG](Glyphs%20Poly/settings/settings_tag_multiple_outline.svg) |

@@ -1030,15 +1030,46 @@
       "sha256": "be3cfce321c0d06ef71faab5704a1f9a06ccafc68ffc23eb91d1855fed16c3bf",
       "source_body_sha256": "2e029e8cdb06821e56ad31e1ef06d7179d79d34a4ba8b9b8146dc8324ffdc9a5"
     },
+    "Glyphs Poly/reader/annotations.svg": {
+      "icon": "glyphs-poly:note-pad",
+      "sha256": "ce87c9761fa6a7d87ea51c110bad381dda0e00c711c37c77bf545f46cf057007",
+      "source_body_sha256": "18c1b084622af222607b2f6b4108273853d59f9bbbfd8065b7f97991d8adcb7c"
+    },
+    "Glyphs Poly/reader/bookmark_outline.svg": {
+      "icon": "glyphs-poly:bookmark",
+      "sha256": "ebf9c3fdd778fdcdd1237a540715c8f9cdb0718422e30af351e21c6bd794bb97",
+      "source_body_sha256": "15f6d0ec25119e7b308d0b62a6f835c7f4f30c30751553eb114901a7eeadcfc7"
+    },
+    "Glyphs Poly/reader/bookmark_remove.svg": {
+      "icon": "glyphs-poly:bookmark",
+      "sha256": "7482996d4dfc40164cc9750b72f3ca5f6d57ae14797ad397e15b2501e9f9115c",
+      "source_body_sha256": "15f6d0ec25119e7b308d0b62a6f835c7f4f30c30751553eb114901a7eeadcfc7",
+      "strike": true
+    },
     "Glyphs Poly/reader/coverflow.svg": {
       "icon": "glyphs-poly:images",
       "sha256": "75d458336fc2a9fec7602db04af10889fad0f26c786ebb68988818cc3f9bbb19",
       "source_body_sha256": "b0fcfb9179a3ed061b56500fa7d1967e062e003fbd915e30264f4ccc12605f05"
     },
+    "Glyphs Poly/reader/document.svg": {
+      "icon": "glyphs-poly:note",
+      "source_body_sha256": "5520c43b603a3d42de6184c9ce1fd7f739948c0b28fc5f1791f66a709b66f366",
+      "sha256": "435f71137c27548db0ba3cfe4e3f14086869019a4feb47fed9af7acd22530e31"
+    },
     "Glyphs Poly/reader/footnote.svg": {
       "icon": "glyphs-poly:note",
       "sha256": "435f71137c27548db0ba3cfe4e3f14086869019a4feb47fed9af7acd22530e31",
       "source_body_sha256": "5520c43b603a3d42de6184c9ce1fd7f739948c0b28fc5f1791f66a709b66f366"
+    },
+    "Glyphs Poly/reader/fullscreen.svg": {
+      "icon": "glyphs-poly:arrows-expand-quad",
+      "source_body_sha256": "ef283001c0d2f2cf2f3826dffe127ed84aba1301cedc383087637ded2c706d48",
+      "sha256": "8f479baf6e143b08280af0ffd0b9ee9951f35db50916c9801faf5cedb5b4a4d1"
+    },
+    "Glyphs Poly/reader/fullscreen_exit.svg": {
+      "icon": "glyphs-poly:view-collapse",
+      "source_body_sha256": "d99a123bb294d49608d463265092bf38882beef52d21e5af30137c25d9d686f8",
+      "sha256": "fe44cdafd0ac0633e4abc36398ae68d15be47186c986e9546bc811cda1aa4377"
     },
     "Glyphs Poly/reader/grid.svg": {
       "icon": "glyphs-poly:grid",
@@ -1050,10 +1081,36 @@
       "sha256": "39c74ed375bd15f6bb2f13fa8e0c64d838ba1d9f11511035aec746b82b8514a7",
       "source_body_sha256": "8d41b5e000f8548f4050dfff3ac5297ebbe6bc36ef9a109acd8ef292c4fd7d79"
     },
+    "Glyphs Poly/reader/history.svg": {
+      "icon": "glyphs-poly:history",
+      "sha256": "4b9a51c35fe764aaa67cb81c1a8f3aa4c9ac8d1c1f6f12b17a0d90c9fa598fc0",
+      "source_body_sha256": "638e7abd95dd2cf19d87ccf62b9262dd005f4cb04b73884c8c60c3c8f9cdd32e"
+    },
+    "Glyphs Poly/reader/moon_outline.svg": {
+      "icon": "glyphs-poly:moon",
+      "sha256": "089deccaad5338febe06be3ef8cf063b5b16dd2748dd8c89dd9111a788c4a8f5",
+      "source_body_sha256": "a84faafd716a6ff75a9173cf67ed001923eeb41f22eea8998e5408a4cc1b7e65"
+    },
+    "Glyphs Poly/reader/page.svg": {
+      "icon": "glyphs-poly:file",
+      "sha256": "386b696920ec38ca678cff52b188e292d003366e63a1197f2beff2fa2ae70185",
+      "source_body_sha256": "fbe7605dc88282ddb54da456315d971c2295d0341508731ef7302a0b8fdbf8ff"
+    },
     "Glyphs Poly/reader/pin.svg": {
       "icon": "glyphs-poly:pin",
       "sha256": "1f2dc0688e2c4ff311df2e0312ff683ebc50914407af76102a6dd3e513f162d5",
       "source_body_sha256": "137edf950e53d97040cb821ddab8edc896d66440926525a6714de4f936979ce5"
+    },
+    "Glyphs Poly/reader/pin_remove.svg": {
+      "icon": "glyphs-poly:pin",
+      "sha256": "323f7b1025338a7a23b9c2187463a548a584fe3a743c28d04df5c7db29e26091",
+      "source_body_sha256": "137edf950e53d97040cb821ddab8edc896d66440926525a6714de4f936979ce5",
+      "strike": true
+    },
+    "Glyphs Poly/reader/profiles.svg": {
+      "icon": "glyphs-poly:sliders",
+      "source_body_sha256": "9b0acdc59c684e4ebdf078f875ce46afcdd6607906907889f4d47b9ce1322194",
+      "sha256": "5e7bf2d4eadb5d32a1a99c5f8e136dc28d5413b77db20457e9ed92662504c8dc"
     },
     "Glyphs Poly/reader/return.svg": {
       "icon": "glyphs-poly:arrow-turn",
@@ -1076,6 +1133,21 @@
       "icon": "glyphs-poly:bars",
       "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
       "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
+    },
+    "Glyphs Poly/reader/zoom_in.svg": {
+      "icon": "glyphs-poly:zoom-in",
+      "source_body_sha256": "8ae6b54f0921ba9ee68d37a83a702a26a0094a6ea82360106f2d2ce74b7dfb95",
+      "sha256": "fd16874aa2ca84074cd9edd30c65ad0fd4f3fd5e274061b07be61981d2e53d9f"
+    },
+    "Glyphs Poly/reader/zoom_out.svg": {
+      "icon": "glyphs-poly:zoom-out",
+      "source_body_sha256": "6930333206ac6a59848ac8e2afb756e93b07971279b7bf83bfe8a825cf52b5e5",
+      "sha256": "016c589e556e012647503a771c27a0e5613385ffc882618b5ef4a0225b8da80d"
+    },
+    "Glyphs Poly/settings/settings_account_outline.svg": {
+      "icon": "glyphs-poly:user",
+      "sha256": "bbd826700c490176f89ee97f1ed76ef24e8da5fc1b2fe606fcb62744f4095e3c",
+      "source_body_sha256": "4548f32c84441eee99de130b61080e902299619dacd849969a2351dd3c2d9ce0"
     },
     "Glyphs Poly/settings/settings_archive_outline.svg": {
       "icon": "glyphs-poly:archive",
@@ -1101,6 +1173,11 @@
       "icon": "glyphs-poly:droplet",
       "sha256": "209c25b5ae975e1de0a18951237072812c95ef9acb20db9b6d27b8ba4e1cc5ea",
       "source_body_sha256": "8dd03d9e5636bc97249749485f4e77aa5a28690980c6f6b7712de7d035e221fd"
+    },
+    "Glyphs Poly/settings/settings_book.svg": {
+      "icon": "glyphs-poly:book",
+      "sha256": "9a227b863f1aaff8888132dbc6eb4730bd35ce6c59255c4a0f4a57946fdda4be",
+      "source_body_sha256": "e2aab1de0d571cd138753362d37b75ba0eec771776e9f1b901db1091d318cd44"
     },
     "Glyphs Poly/settings/settings_book_check.svg": {
       "icon": "glyphs-poly:book",
@@ -1145,6 +1222,11 @@
       "sha256": "60ba36e1b30c7483ee09ee7dc82f2dde0eee5f3bf42d5941587df2d2dc962f98",
       "source_body_sha256": "15f8a48021714ac9e9330cb77aff498ed752396ffaa4659967a18b8fd03206c5"
     },
+    "Glyphs Poly/settings/settings_check.svg": {
+      "icon": "glyphs-poly:check",
+      "sha256": "8412762428784964d8fd889c1c3e1cb8b4a254473fe3bb179d573696aaafd445",
+      "source_body_sha256": "f64f081d8e35d8a8c9aeafcefc298f22389628773ec83050a9da6c1c257d4685"
+    },
     "Glyphs Poly/settings/settings_clipboard_play_outline.svg": {
       "icon": "glyphs-poly:clipboard",
       "sha256": "8c73ae8a0667ebf8a89ad745992e6a8fea5fbe693b9af9922bee4e822cf2a983",
@@ -1164,6 +1246,21 @@
       "icon": "glyphs-poly:cog",
       "sha256": "299a8517ac4e26e4f9c86ca5af8069900cab0a0d5b02b462041b8a6945ed899f",
       "source_body_sha256": "632a5fa0fdc449ae5e5588c4feaf532ef549a03612474acb47abe0e5c45be1dc"
+    },
+    "Glyphs Poly/settings/settings_content_copy.svg": {
+      "icon": "glyphs-poly:copy",
+      "source_body_sha256": "f7afa72edffdbdc34de9997d3aabcc67d2a0a61046d0c2cb68bb10efb0896efb",
+      "sha256": "b6673bfb8b6bac998c0145339a55af301ea89159f2eed9e29bba3278c7b6e510"
+    },
+    "Glyphs Poly/settings/settings_content_cut.svg": {
+      "icon": "glyphs-poly:scissors",
+      "source_body_sha256": "70defa65aa2b27fe241d3868b4eaaad155d8ff2c06ba638f18dbef9174ab8368",
+      "sha256": "b7c8d23259510c073d73a05322f2b169c01a0cbcb65816778ee6121b6110dad9"
+    },
+    "Glyphs Poly/settings/settings_content_paste.svg": {
+      "icon": "glyphs-poly:paste",
+      "source_body_sha256": "d0f9a44c2c9e197f0ff51f556d987f51b029b611eb1ceb433bab38121594a3e6",
+      "sha256": "d75c4650bdd3368526c8992a410f86b300a6127fda99857d27446db3d391a22a"
     },
     "Glyphs Poly/settings/settings_content_save.svg": {
       "icon": "glyphs-poly:save",
@@ -1195,6 +1292,22 @@
       "sha256": "5bae08b371579b1e88bc21a327e66d980b1d5418d2a59db591c0d35ac978218b",
       "source_body_sha256": "e28dba85816af0448c594371918124fa1b3e69f8bb6a0621c0aa04132f6199c3"
     },
+    "Glyphs Poly/settings/settings_dots_horizontal.svg": {
+      "icon": "glyphs-poly:ellipsis",
+      "sha256": "12d33e58f74d636d400749b9781986b7a291122eebcbff6e78434928d032822e",
+      "source_body_sha256": "c9011c0be373007dac5afa7fda65edbc47fbd34d63afa640f463481cd3f4f2b1",
+      "transforms": [
+        "rotate:90"
+      ]
+    },
+    "Glyphs Poly/settings/settings_download.svg": {
+      "icon": "glyphs-poly:arrow-line-start",
+      "sha256": "836bdaaf10e2478a0ca403f367cf58441b3d4b4f72254e281fa14be8d8bba3e2",
+      "source_body_sha256": "a2fd148f09d4017c436dddbd205c414dedb14a0aebe9c85a6abca2782da77941",
+      "transforms": [
+        "rotate:180"
+      ]
+    },
     "Glyphs Poly/settings/settings_drag_horizontal_variant.svg": {
       "icon": "glyphs-poly:bars-offset",
       "sha256": "d3c3a0d42f779bdb2476f5326a9f999f4c99fa3b231a2a4b4881785eee465c0a",
@@ -1209,6 +1322,16 @@
       "icon": "glyphs-poly:eye-slash",
       "sha256": "7acc654d4417e7a56d15b22b04d9e851c6951deb1af0e43bf9209affe08cac24",
       "source_body_sha256": "6ae6c5e65ea82586e3a39b1fa0ac33c209f1a213913eda5150611d6f01af8fad"
+    },
+    "Glyphs Poly/settings/settings_eye_outline.svg": {
+      "icon": "glyphs-poly:eye",
+      "source_body_sha256": "98b3e620dcf596bc8d231ca21d98f72e73a69500fe26daf163e5ecf57cab3bbb",
+      "sha256": "4940dfe437f324f8687daa41410cb639adf90f4ccc306bd81c34015318e42635"
+    },
+    "Glyphs Poly/settings/settings_file_outline.svg": {
+      "icon": "glyphs-poly:file",
+      "sha256": "386b696920ec38ca678cff52b188e292d003366e63a1197f2beff2fa2ae70185",
+      "source_body_sha256": "fbe7605dc88282ddb54da456315d971c2295d0341508731ef7302a0b8fdbf8ff"
     },
     "Glyphs Poly/settings/settings_file_tree.svg": {
       "icon": "glyphs-poly:layer-group",
@@ -1245,6 +1368,11 @@
       "sha256": "b850330fa9352bbdbdd7915821eed813da02b0fd377e474889b09cb2497ad9fd",
       "source_body_sha256": "543f029c90d53f42195fddde7179b3205930ecfd005bf6233e6acbd70ae673c8"
     },
+    "Glyphs Poly/settings/settings_format_list_bulleted.svg": {
+      "icon": "glyphs-poly:bars",
+      "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
+      "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
+    },
     "Glyphs Poly/settings/settings_format_underline.svg": {
       "icon": "glyphs-poly:underline",
       "sha256": "19ceb1b32dfdfc710de29579f0be01201bc075296b4b966be59b81a07cdde25f",
@@ -1274,6 +1402,11 @@
       "icon": "glyphs-poly:hard-drive",
       "sha256": "e7c9872d85ad982ebb58e53cc9a9a59f48e6d9c702925d308f9e2c95048a6ef0",
       "source_body_sha256": "359bc319f225d4b821e6e441cdd6b06471fdd03724721e25941536d479d39b16"
+    },
+    "Glyphs Poly/settings/settings_history.svg": {
+      "icon": "glyphs-poly:history",
+      "sha256": "4b9a51c35fe764aaa67cb81c1a8f3aa4c9ac8d1c1f6f12b17a0d90c9fa598fc0",
+      "source_body_sha256": "638e7abd95dd2cf19d87ccf62b9262dd005f4cb04b73884c8c60c3c8f9cdd32e"
     },
     "Glyphs Poly/settings/settings_home_variant.svg": {
       "icon": "glyphs-poly:house",
@@ -1320,6 +1453,11 @@
       "sha256": "e8bbe8c7e589068743aab63c9315f55e2cdde948b2c7673c3e5961ac1446cad3",
       "source_body_sha256": "c6eef52c890bf5b039606cc56e813a77486ecd9738dcaec106a0ce95b45f8a52"
     },
+    "Glyphs Poly/settings/settings_note_plus_outline.svg": {
+      "icon": "glyphs-poly:file-add",
+      "source_body_sha256": "c9259b082b266c1aec43276eb612aaa319994425dc62afbf926a19800db6a058",
+      "sha256": "689880c36d004397485980982cb62c2a2127daed51fbe24e15d6fec33b3f7aad"
+    },
     "Glyphs Poly/settings/settings_palette.svg": {
       "icon": "glyphs-poly:palette",
       "sha256": "c788203b8cbb474a5d135bb110b5eeb0b647d6adffee0e21b1cbb9122a02267e",
@@ -1329,6 +1467,16 @@
       "icon": "glyphs-poly:arrows-exchange",
       "sha256": "eae7291bbb7c033bb60c07cb649743c59ce4a3d84dc30c176a737564a7da5572",
       "source_body_sha256": "a061c858c7cdcb110604b94490604529e79abfc13372d68c0965de8707b00edb"
+    },
+    "Glyphs Poly/settings/settings_pause.svg": {
+      "icon": "glyphs-poly:pause",
+      "source_body_sha256": "f50b411889b5b27c9009e292492a715d10ac6cffc057b3500e778de5b533b669",
+      "sha256": "e41996602d4ac4783bb31de50522623ff9d8e8ab9785a1057a7300e14df16a28"
+    },
+    "Glyphs Poly/settings/settings_pencil_outline.svg": {
+      "icon": "glyphs-poly:edit",
+      "sha256": "93f0d640e1873ff95ba9a1007934025bb5531e7308e1e17f03f92420e5a720bb",
+      "source_body_sha256": "930473a3d5228eb169cbbadaf23ded26f4e652eebdfe63b777d1ccfbc7854c43"
     },
     "Glyphs Poly/settings/settings_play.svg": {
       "icon": "glyphs-poly:check",
@@ -1360,10 +1508,30 @@
       "sha256": "0d5c0cab6b6844fe7bb763a0db38b5b733fadd149c6372143088a4ce1f749bfb",
       "source_body_sha256": "08efa9324cec1c4576579172fb0118c57a99c31bdc6d0d06d95a522dd4adee17"
     },
+    "Glyphs Poly/settings/settings_restore.svg": {
+      "icon": "glyphs-poly:arrow-turn",
+      "source_body_sha256": "77543e6e47050409b087b0e22ef41b75c5cfc346f1352e7b5c9d32a24ac817b8",
+      "sha256": "bda3f846bc85b75ca8de26b706b6a8dd4f38535ec21b1e750ba47e5dbb9e8af5"
+    },
+    "Glyphs Poly/settings/settings_selection.svg": {
+      "icon": "glyphs-poly:object-select",
+      "source_body_sha256": "47416e0abc8be9a7589c643a5c216a7066e0ae83eed5fbc02c903eb185d7a32b",
+      "sha256": "83b11275a4b9651b34d783b62f817662dd0b2a257f64d63b8432039fc3a81b84"
+    },
     "Glyphs Poly/settings/settings_sleep.svg": {
       "icon": "glyphs-poly:snooze",
       "sha256": "09f507e85e7c2401d853c8520690d2023a56238b148c226c4cabab613792ed00",
       "source_body_sha256": "d6af925b3e9f0464fb39cc6665face1f65ea6f726e643faf1b392c019ac3bd0e"
+    },
+    "Glyphs Poly/settings/settings_sort_alphabetical_ascending.svg": {
+      "icon": "glyphs-poly:sort-alpha-down",
+      "sha256": "3c28c065c2a686eed47b30c6aeab448dbab083ac12a5b97e73f51d2d9dc0463f",
+      "source_body_sha256": "9c672f936a89a912cb11a01d5e4e4a3390b56b8e1fe86055855476c956441f25"
+    },
+    "Glyphs Poly/settings/settings_sort_alphabetical_descending.svg": {
+      "icon": "glyphs-poly:sort-alpha-up",
+      "source_body_sha256": "ec359667f72dc2f63cc23d10fe78e74abf1d9d18bb5ec93d2a3ef3741a57d4c5",
+      "sha256": "6121ecc0e685cc309947896f1f35e1fbbaf9226dd3481d27210c0eace35d20f0"
     },
     "Glyphs Poly/settings/settings_sort_alphabetical_variant.svg": {
       "icon": "glyphs-poly:sort-alpha-down",
@@ -1384,6 +1552,16 @@
       "icon": "glyphs-poly:star",
       "sha256": "fd10b40fd66003d03ff9565b09ca9bf59fe42bded0f302a377978d1b5125bc39",
       "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b"
+    },
+    "Glyphs Poly/settings/settings_star_outline.svg": {
+      "icon": "glyphs-poly:star",
+      "sha256": "fd10b40fd66003d03ff9565b09ca9bf59fe42bded0f302a377978d1b5125bc39",
+      "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b"
+    },
+    "Glyphs Poly/settings/settings_sync.svg": {
+      "icon": "glyphs-poly:arrows-exchange",
+      "sha256": "eae7291bbb7c033bb60c07cb649743c59ce4a3d84dc30c176a737564a7da5572",
+      "source_body_sha256": "a061c858c7cdcb110604b94490604529e79abfc13372d68c0965de8707b00edb"
     },
     "Glyphs Poly/settings/settings_table_row.svg": {
       "icon": "glyphs-poly:columns-3",
