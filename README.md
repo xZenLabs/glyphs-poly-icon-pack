@@ -13,7 +13,7 @@ by **Goran Spasojevic**. Created with GitHub's **Use this template** feature fro
 
 | Pack | Source SVGs | Built SVG lookups | Release asset |
 |---|---|---|---|
-| Glyphs Poly | 375 | 375 | `zen-glyphs-poly.zip` |
+| Glyphs Poly | 376 | 376 | `zen-glyphs-poly.zip` |
 
 The pack covers navigation, library tabs, quick actions, reader menus, chevrons,
 text alignment, column layouts, stars, open Wi-Fi signal levels, batteries,
@@ -53,6 +53,9 @@ Context-menu and settings rows also resolve `settings_link.svg`,
 `settings_file_cabinet.svg`, `settings_book_outline.svg`, and
 `settings_file_document_outline.svg`. Incognito, chevrons, book and document reuse the pack's
 existing artwork; Wi-Fi off draws a line through the pack's Wi-Fi icon.
+
+The ZenFM Controls button and Launcher entry resolve `zenfm.svg`, a copy of the
+pack's file-browser folder artwork.
 
 ## Install with ZenPM
 

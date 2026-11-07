@@ -208,6 +208,11 @@
       "sha256": "fd10b40fd66003d03ff9565b09ca9bf59fe42bded0f302a377978d1b5125bc39",
       "source_body_sha256": "4067fc8ff28ddfbd92fbd65e087d905718e8e6e50fc51a4c36b8ce37f9b4c74b"
     },
+    "Glyphs Poly/controls/zenfm.svg": {
+      "icon": "glyphs-poly:folder",
+      "sha256": "1c7d9c32a737ef236b9257edb7aad1de60cd5b7322225c44ef0ea90a63c0f24f",
+      "source_body_sha256": "11fba9ed5f2a6a093c9d5a566103c9482b157fb89f487ffcb4d8640f5a2b3e86"
+    },
     "Glyphs Poly/device/backup.svg": {
       "icon": "glyphs-poly:save",
       "sha256": "537d0001212631ecd76ce5af6909c0e83b6c377cb24a4a9baf06e694cda8340d",

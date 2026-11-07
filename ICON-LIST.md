@@ -95,6 +95,7 @@ Quick settings, shared Zen buttons, and playback controls.
 | `skip_right.svg` | [SVG](Glyphs%20Poly/controls/skip_right.svg) |
 | `star.filled.svg` | [SVG](Glyphs%20Poly/controls/star.filled.svg) |
 | `star.svg` | [SVG](Glyphs%20Poly/controls/star.svg) |
+| `zenfm.svg` | [SVG](Glyphs%20Poly/controls/zenfm.svg) |
 
 ## launcher
 
