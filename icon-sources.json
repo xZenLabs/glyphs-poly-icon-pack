@@ -691,6 +691,16 @@
       "sha256": "9a227b863f1aaff8888132dbc6eb4730bd35ce6c59255c4a0f4a57946fdda4be",
       "source_body_sha256": "e2aab1de0d571cd138753362d37b75ba0eec771776e9f1b901db1091d318cd44"
     },
+    "Glyphs Poly/launcher/bookorbit.svg": {
+      "icon": "glyphs-poly:planet-moon",
+      "sha256": "3fe0aea67fcf751e8a3c6b608b74ca7c6fa4b6eb09f474e5d54832f6067f5c77",
+      "source_body_sha256": "d1151957403c25caa747ae85b239be22526f74eb14e52a280093f0fbcb0774d8"
+    },
+    "Glyphs Poly/launcher/bookorbit.tab.svg": {
+      "icon": "glyphs-poly:planet-moon",
+      "sha256": "3fe0aea67fcf751e8a3c6b608b74ca7c6fa4b6eb09f474e5d54832f6067f5c77",
+      "source_body_sha256": "d1151957403c25caa747ae85b239be22526f74eb14e52a280093f0fbcb0774d8"
+    },
     "Glyphs Poly/launcher/bookshelf.svg": {
       "icon": "glyphs-poly:books",
       "sha256": "0ecbbd7348a711609b58c06f1913acab9ab3a07ba45ef17071ab2f5c9c259094",

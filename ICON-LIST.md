@@ -108,6 +108,8 @@ App Launcher, plugin shortcuts, and utility artwork for the icon picker.
 | `avatar.svg` | [SVG](Glyphs%20Poly/launcher/avatar.svg) |
 | `blocks.svg` | [SVG](Glyphs%20Poly/launcher/blocks.svg) |
 | `book_closed.svg` | [SVG](Glyphs%20Poly/launcher/book_closed.svg) |
+| `bookorbit.svg` | [SVG](Glyphs%20Poly/launcher/bookorbit.svg) |
+| `bookorbit.tab.svg` | [SVG](Glyphs%20Poly/launcher/bookorbit.tab.svg) |
 | `bookshelf.svg` | [SVG](Glyphs%20Poly/launcher/bookshelf.svg) |
 | `calculator.svg` | [SVG](Glyphs%20Poly/launcher/calculator.svg) |
 | `calendar.svg` | [SVG](Glyphs%20Poly/launcher/calendar.svg) |
